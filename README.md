@@ -186,3 +186,14 @@ Before submitting a Pull Request, ensure:
 - [ ] `mapCenter` and `mapZoom` are appropriate to display the full FIR area. You may login to V-LARA profile `EACCZAMC (test environment)` to view boundaries of different FIR's. The coordinates are shown in the top-right corner of the Map Display.
 
 ---
+
+After submitting and Approved Pull Request:
+- Navigate to [lara-backend.lusep.fi/topsky/xxxx.txt](https://lara-backend.lusep.fi/topsky/lara.txt) (replace xxxx with your FIR code)
+    - The file shows all **currently ongoing** reservations. By default it includes a dummy reservation `VLARA:350101:350101:0:1000:1001:0:100:VLARA:`
+    - This is the URL that shall be used for TopSky REMOTE functionality
+    - Paste `https://lara-backend.lusep.fi/topsky/lara.txt` to the TopSky settings file
+
+
+
+
+
