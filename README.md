@@ -91,7 +91,6 @@ Each `Feature` must contain the following fields inside its `properties` object:
 Make sure that:
 - Each airspace has a **distinct `name`** and it shall **match with TopSky areas.txt**.
 - Coordinates are listed in the `[longitude, latitude]` format.
-- Check the file visually to make sure all shapes have correct coordinates
 - The polygon is **closed** — the first and last coordinate pairs should match.
 
 ---
@@ -124,7 +123,7 @@ This file defines how the FIR is displayed in the app and how airspaces are grou
 | `mapZoom`    | `number`           | Initial zoom level (e.g., `5.4`)                                       |
 | `groups`     | `object`           | A collection of airspace groups for organizing layers and filtering    |
 
-Each entry in the `groups` object defines a display group on the map. You can create one or more groups depending on how you want the airspaces to be displayed or filtered.
+Each entry in the `groups` object defines a preset selection of many airspace blocks. This makes it faster for the user to select commonly grouped airspace selections.
 
 ### 🧱 Group Object Structure
 
@@ -133,10 +132,10 @@ Each group must include:
 | Field        | Type       | Description                                                  |
 |--------------|------------|--------------------------------------------------------------|
 | `airspaces`  | `string[]` | A list of airspace `name`s that belong to this group         |
-| `lowerFL`    | `number`   | The minimum flight level for this group (e.g., `30`)         |
-| `upperFL`    | `number`   | The maximum flight level for this group (e.g., `999`)        |
+| `lowerFL`    | `number`   | Preset Lower FL (e.g., `30`)         |
+| `upperFL`    | `number`   | Preset Upper FL (e.g., `999`)        |
 
-These values define the vertical range in which the group is visible in the app.
+Make sure that the `airspaces` name's matches with the names defined in the .geojson file.
 
 **Example with multiple groups:**
 
@@ -145,15 +144,30 @@ These values define the vertical range in which the group is visible in the app.
   "mapCenter": [24.3, 58.5510],
   "mapZoom": 6,
   "groups": {
-    "LOW LEVEL": {
+    "TRIDENT": {
       "airspaces": ["TSA1", "TSA2"],
       "lowerFL": 0,
       "upperFL": 245
     },
-    "HIGH LEVEL": {
-      "airspaces": ["TSA3"],
-      "lowerFL": 246,
-      "upperFL": 660
+    "POKKA": {
+      "airspaces": ["TSA3", "TSA4", "TRA87W"],
+      "lowerFL": 95,
+      "upperFL": 999
+    }
+  }
+}
+```
+
+If your FIR does not have grouped airspace reservations:
+
+```json
+{
+  ...
+  "groups": {
+    "No Presets": {
+      "airspaces": [""],
+      "lowerFL": 0,
+      "upperFL": 999
     }
   }
 }
@@ -163,12 +177,12 @@ These values define the vertical range in which the group is visible in the app.
 
 Before submitting a Pull Request, ensure:
 
-- [ ] Each airspace `Feature` in your `.geojson` has a unique and descriptive `name`
+- [ ] Each airspace `Feature` in your `.geojson` has a unique and descriptive `name` and the name matches with an airspace defined in TopSky areas.txt.
 - [ ] All `name`s in your `.json` file’s `groups.airspaces` array **match exactly** with the `name` values in your `.geojson`
 - [ ] Your `.geojson` file is valid [GeoJSON](https://geojson.org/) (you can use [geojson.io](https://geojson.io) or [geojsonlint.com](https://geojsonlint.com) to validate)
 - [ ] Polygons in the `.geojson` are properly **closed** (i.e. the first and last coordinate pair are the same)
 - [ ] Your `.json` file is valid JSON (no trailing commas, properly quoted strings, etc.)
-- [ ] Flight levels (`lowerFL` and `upperFL`) are correct and consistent across files
-- [ ] `mapCenter` and `mapZoom` are appropriate to display the full FIR area
+- [ ] Flight levels (`lowerFL` and `upperFL`) are correct
+- [ ] `mapCenter` and `mapZoom` are appropriate to display the full FIR area. You may login to V-LARA profile `EACCZAMC (test environment)` to view boundaries of different FIR's. The coordinates are shown in the top-right corner of the Map Display.
 
 ---
