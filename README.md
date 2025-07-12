@@ -15,7 +15,7 @@ You will need to create **two files** named after your FIR (replace `xxxx` with 
 
 ---
 
-## 🌍 Add `.geojson` File (Airspace Geometry)
+## 🌍 Add `.geojson` File (`xxxx.geojson`)
 
 This file should follow the GeoJSON format and define each airspace volume as a `Feature`.
 
@@ -94,7 +94,7 @@ Make sure that:
 
 ---
 
-## 📦 JSON Configuration File (`xxxx.json`)
+## 📦 Add .json File (`xxxx.json`)
 
 This file defines how the FIR is displayed in the app and how airspaces are grouped.
 
