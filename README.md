@@ -195,7 +195,7 @@ After submitting and Approved Pull Request:
 
 ---
 
-## Questions and manuals
+## ❓ Questions and manuals
 
 You may contact me on Discord for any questions.
 
