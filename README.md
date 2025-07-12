@@ -199,8 +199,8 @@ After submitting and Approved Pull Request:
 
 You may contact me on Discord for any questions.
 
-- [Pilot Manual]([https://lara-backend.lusep.fi/topsky/lara.txt](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation)) 
-- [ATC Manual]([https://lara-backend.lusep.fi/topsky/lara.txt](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guide)) 
+- [Pilot Manual](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation) 
+- [ATC Manual](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guide) 
 
 
 
