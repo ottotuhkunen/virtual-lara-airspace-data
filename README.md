@@ -91,7 +91,7 @@ Each `Feature` must contain the following fields inside its `properties` object:
 
 Make sure that:
 - Each airspace has a **distinct `name`** and it shall **match with TopSky areas.txt**.
-- Note! If you don't define a name, the shape will be visible on the map but not as a reservable airspace. This might be useful in order to display country borders etc.
+- Note! If you leave the name empty `"name": ""`, the shape will be visible on the map but not as a reservable airspace. This might be useful in order to display country borders etc.
 - Coordinates are listed in the `[longitude, latitude]` format.
 - The polygon is **closed** — the first and last coordinate pairs should match.
 
