@@ -83,10 +83,10 @@ Each `Feature` must contain the following fields inside its `properties` object:
 
 | Field     | Type   | Description                                  |
 |-----------|--------|----------------------------------------------|
-| `name`    | string | airspace name (e.g., `"TSA1"`), **must be same as defined in TopSky areas.txt!**  |
-| `type`    | string | Type of airspace (e.g., `"TSA"`, `"TRA"`, `"CTR"`) |
-| `lowerFL` | number | Lower flight level (e.g., `95`)              |
-| `upperFL` | number | Upper flight level (e.g., `660`)             |
+| `name`    | string | airspace name (e.g., `"TSA1"`). The airspace must match with the name in TopSky areas.txt!  |
+| `type`    | string | Type of airspace (e.g., `"TSA"`, `"Local TRA"`). Keep the type as short as possible.        |
+| `lowerFL` | number | Lower flight level (e.g., `95`). SFC/GND -> 0. 500FT -> 5                                   |
+| `upperFL` | number | Upper flight level (e.g., `660`). 10700 FT -> 107. UNL -> 999                               |
 
 Make sure that:
 - Each airspace has a **distinct `name`**.
