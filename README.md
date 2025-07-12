@@ -2,13 +2,11 @@
 
 This repository contains airspace data for the V-LARA system.
 
-## ✈️ Contribute a New FIR (Flight Information Region)
-
 If you'd like to add your country's FIR or a new airspace dataset, follow the steps below.
 
 ---
 
-## 📁 Step 1: Create Two Files
+## 📁 Create the two files for your FIR
 
 You will need to create **two files** named after your FIR (replace `xxxx` with the FIR name in **lowercase**):
 
@@ -17,7 +15,7 @@ You will need to create **two files** named after your FIR (replace `xxxx` with 
 
 ---
 
-## 🌍 1. The `.geojson` File (Airspace Geometry)
+## 🌍 Add `.geojson` File (Airspace Geometry)
 
 This file should follow the GeoJSON format and define each airspace volume as a `Feature`.
 
@@ -90,6 +88,7 @@ Each `Feature` must contain the following fields inside its `properties` object:
 
 Make sure that:
 - Each airspace has a **distinct `name`** and it shall **match with TopSky areas.txt**.
+- Note! If you don't define a name, the shape will be visible on the map but not as a reservable airspace. This might be useful in order to display country borders etc.
 - Coordinates are listed in the `[longitude, latitude]` format.
 - The polygon is **closed** — the first and last coordinate pairs should match.
 
@@ -162,7 +161,8 @@ If your FIR does not have grouped airspace reservations:
 
 ```json
 {
-  ...
+  "mapCenter": [24.3, 58.5510],
+  "mapZoom": 6,
   "groups": {
     "No Presets": {
       "airspaces": [""],
