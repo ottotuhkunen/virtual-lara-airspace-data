@@ -189,11 +189,18 @@ Before submitting a Pull Request, ensure:
 
 After submitting and Approved Pull Request:
 - Navigate to [lara-backend.lusep.fi/topsky/xxxx.txt](https://lara-backend.lusep.fi/topsky/lara.txt) (replace xxxx with your FIR code)
-    - The file shows all **currently ongoing** reservations. By default it includes a dummy reservation `VLARA:350101:350101:0:1000:1001:0:100:VLARA:`
+    - The file shows all **currently ongoing** reservations. By default it includes a dummy reservation `VLARA:350101:350101:0:1000:1001:0:100:VLARA:`. This makes sure that TopSky is able to read the file at all times even when no reservations are present.
     - This is the URL that shall be used for TopSky REMOTE functionality
     - Paste `https://lara-backend.lusep.fi/topsky/xxxx.txt` to the TopSky settings file
 
+---
 
+## Questions and manuals
+
+You may contact me on Discord for any questions.
+
+- [Pilot Manual]([https://lara-backend.lusep.fi/topsky/lara.txt](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation)) 
+- [ATC Manual]([https://lara-backend.lusep.fi/topsky/lara.txt](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guide)) 
 
 
 
