@@ -2,6 +2,9 @@
 
 This repository contains airspace data for the V-LARA system.
 
+- [Pilot Manual](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation) 
+- [ATC Manual](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guide) 
+
 If you'd like to add your country's FIR or a new airspace dataset, follow the steps below.
 
 ---
@@ -192,9 +195,9 @@ Before submitting a Pull Request, ensure:
 After submitting and Approved Pull Request:
 - Navigate to [lara-backend.lusep.fi/topsky/xxxx.txt](https://lara-backend.lusep.fi/topsky/lara.txt) (replace xxxx with your FIR code)
     - The file shows all **currently ongoing** reservations. By default it includes a dummy reservation `VLARA:350101:350101:0:1000:1001:0:100:VLARA:`. This makes sure that TopSky is able to read the file at all times even when no reservations are present.
-    - This is the URL that shall be used for TopSky REMOTE functionality
-    - Paste `https://lara-backend.lusep.fi/topsky/xxxx.txt` to the TopSky settings file
-
+  - Navigate to plugins/ `TopSkySettings.txt`
+  - Paste the URL by adding a new line: HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/xxxx.txt
+    
 ---
 
 ## ❓ Questions and manuals
