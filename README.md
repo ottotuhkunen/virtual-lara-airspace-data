@@ -85,12 +85,13 @@ Each `Feature` must contain the following fields inside its `properties` object:
 |-----------|--------|----------------------------------------------|
 | `name`    | string | airspace name (e.g., `"TSA1"`). The airspace must match with the name in TopSky areas.txt!  |
 | `type`    | string | Type of airspace (e.g., `"TSA"`, `"Local TRA"`). Keep the type as short as possible.        |
-| `lowerFL` | number | Lower flight level (e.g., SFC -> `0`. 500FT -> `5`. 9500FT -> `95`)                         |
-| `upperFL` | number | Upper flight level (e.g., 10700 FT -> `107`. UNL -> `999`)                                  |
+| `lowerFL` | number | Lower flight level (e.g., SFC → `0`. 500FT → `5`. 9500FT → `95`)                         |
+| `upperFL` | number | Upper flight level (e.g., 10700 FT → `107`. UNL → `999`)                                  |
 
 Make sure that:
-- Each airspace has a **distinct `name`**.
+- Each airspace has a **distinct `name`** and it shall **match with TopSky areas.txt**.
 - Coordinates are listed in the `[longitude, latitude]` format.
+- Check the file visually to make sure all shapes have correct coordinates
 - The polygon is **closed** — the first and last coordinate pairs should match.
 
 ---
