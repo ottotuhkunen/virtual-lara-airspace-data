@@ -187,6 +187,8 @@ Before submitting a Pull Request, ensure:
 
 ---
 
+## 🔗 Connect with EuroScope TopSky plugin
+
 After submitting and Approved Pull Request:
 - Navigate to [lara-backend.lusep.fi/topsky/xxxx.txt](https://lara-backend.lusep.fi/topsky/lara.txt) (replace xxxx with your FIR code)
     - The file shows all **currently ongoing** reservations. By default it includes a dummy reservation `VLARA:350101:350101:0:1000:1001:0:100:VLARA:`. This makes sure that TopSky is able to read the file at all times even when no reservations are present.
