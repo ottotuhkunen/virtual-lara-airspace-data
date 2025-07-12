@@ -1,0 +1,76 @@
+{
+  "mapCenter": [25.3340, 64.9631],
+  "mapZoom": 4.1,
+  "groups": {
+    "SAVU": {
+      "airspaces": ["TSAJ01", "TSAJ16", "TSAJ17", "TSAH01", "TSAH44"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "RUKA": {
+      "airspaces": ["TSAH02", "TSAH03", "TSAH05", "TSAH06", "TSAH07", "TSAH08", "TSAH10", "TSAH12", "TSAH13"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "MERI": {
+      "airspaces": ["EFTRAH21", "EFTRAV27", "EFTRAV28", "EFTRAV29", "EFTRAV30", "TSAV29", "TSAV30"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "KIURU": {
+      "airspaces": ["TSAH51", "TSAV10", "TSAV11", "TSAV12", "TSAV13", "TSAV14", "TSAV15", "TSAN20", "TSAN21"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "KOLI": {
+      "airspaces": ["TSAV02", "TSAV03", "TSAV04", "TSAN26", "TSAN27", "TSAN28", "TSAN29"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "KIUKO": {
+      "airspaces": ["TSAV02", "TSAV03", "TSAV04", "TSAV05", "TSAV12", "TSAV13", "TSAV14", "TSAV15", "TSAN20", "TSAN21", "TSAN26", "TSAN27", "TSAN28", "TSAN29"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "POKA": {
+      "airspaces": ["TSAG26", "TSAG27"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "HAKA": {
+      "airspaces": ["TSAM61", "TSAM62", "TSAV18", "TSAV19", "TSAV20", "TSAV21", "TSAV22", "TSAV23", "TSAV24"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "KAIRA": {
+      "airspaces": ["TSAJ04", "TSAJ05", "TSAJ21", "TSAJ24", "TSAJ25"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "KURU": {
+      "airspaces": ["TSAG06", "TSAG07"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "SAIMA": {
+      "airspaces": ["TSAN02", "TSAN06", "TSAN12", "TSAN13", "TSAN14", "TSAN15"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "EUCBA10_LAPLAND": {
+      "airspaces": ["TRAH31", "TRAJ18", "TRAJ19", "TRAJ23"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "EUCBA11_BOTHNIA": {
+      "airspaces": ["TRAH21", "TRAV27"],
+      "lowerFL": 30,
+      "upperFL": 999
+    },
+    "EUCBA12_BOTHNIA": {
+      "airspaces": ["TRAV28"],
+      "lowerFL": 30,
+      "upperFL": 999
+    }
+  }
+}

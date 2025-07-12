@@ -1,0 +1,11 @@
+{
+  "mapCenter": [24.3, 58.5510],
+  "mapZoom": 5.4,
+  "groups": {
+    "no presets": {
+      "airspaces": [""],
+      "lowerFL": 0,
+      "upperFL": 999
+    }
+  }
+}
