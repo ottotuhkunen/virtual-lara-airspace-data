@@ -1,6 +1,6 @@
 {
   "mapCenter": [24.3, 58.5510],
-  "mapZoom": 5.4,
+  "mapZoom": 3.0,
   "groups": {
     "GROUP1": {
       "airspaces": ["TSA1", "TSA2"],
