@@ -13,7 +13,7 @@
       "upperFL": 999
     },
     "MERI": {
-      "airspaces": ["EFTRAH21", "EFTRAV27", "EFTRAV28", "EFTRAV29", "EFTRAV30", "TSAV29", "TSAV30"],
+      "airspaces": ["TRAH21", "TRAV27", "TRAV28", "TRAV29", "TRAV30", "TSAV29", "TSAV30"],
       "lowerFL": 30,
       "upperFL": 999
     },
