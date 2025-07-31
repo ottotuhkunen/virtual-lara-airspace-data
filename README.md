@@ -59,7 +59,8 @@ This file should follow the GeoJSON format and define each airspace volume as a 
         "name": "TSA2",
         "type": "TSA",
         "upperFL": 245,
-        "lowerFL": 95
+        "lowerFL": 95,
+        "mustBeBookedWith": ["TSA1"]
       },
       "geometry": {
         "type": "Polygon",
@@ -82,12 +83,14 @@ This file should follow the GeoJSON format and define each airspace volume as a 
 
 Each `Feature` must contain the following fields inside its `properties` object:
 
-| Field     | Type   | Description                                  |
-|-----------|--------|----------------------------------------------|
-| `name`    | string | airspace name (e.g., `"TSA1"`). The airspace must match with the name in TopSky areas.txt!  |
-| `type`    | string | Type of airspace (e.g., `"TSA"`, `"Local TRA"`). Keep the type as short as possible.        |
-| `lowerFL` | number | Lower flight level (e.g., SFC → `0`. 500FT → `5`. 9500FT → `95`)                         |
-| `upperFL` | number | Upper flight level (e.g., 10700 FT → `107`. UNL → `999`)                                  |
+| Field                 | Type   | Description                                  |
+|-----------------------|--------|----------------------------------------------|
+| `name`                | string | airspace name (e.g., `"TSA1"`). The airspace must match with the name in TopSky areas.txt!  |
+| `type`                | string | Type of airspace (e.g., `"TSA"`, `"Local TRA"`). Keep the type as short as possible.        |
+| `lowerFL`             | number | Lower flight level (e.g., SFC → `0`. 500FT → `5`. 9500FT → `95`)                         |
+| `upperFL`             | number | Upper flight level (e.g., 10700 FT → `107`. UNL → `999`)                                  |
+| (`mustBeBookedWith`)  | array  | Optional list of airspace names that must be booked together or prior (e.g., ["TSA1", "TSA2"]) |
+
 
 Make sure that:
 - Each airspace has a **distinct `name`** and it shall **match with TopSky areas.txt**.
