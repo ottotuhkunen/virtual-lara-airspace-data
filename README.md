@@ -62,9 +62,9 @@ This file should follow the GeoJSON format and define each airspace volume as a 
         "lowerFL": 95,
         "mustBeBookedWith": ["TSA1"],
         "activationLimits": [
-          {"time": ["0900", "2000"], "month": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "weekday": [1, 2, 3, 4, 5, 6, 7]
-          {"time": ["2000", "2200"], "month": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "weekday": [1, 2, 3, 4, 5]
-        }]
+          {"time": ["0900", "2000"], "month": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "weekday": [1, 2, 3, 4, 5, 6, 7]},
+          {"time": ["2000", "2200"], "month": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "weekday": [1, 2, 3, 4, 5]}
+        ]
       },
       "geometry": {
         "type": "Polygon",
