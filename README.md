@@ -60,7 +60,11 @@ This file should follow the GeoJSON format and define each airspace volume as a 
         "type": "TSA",
         "upperFL": 245,
         "lowerFL": 95,
-        "mustBeBookedWith": ["TSA1"]
+        "mustBeBookedWith": ["TSA1"],
+        "activationLimits": [
+          {"time": ["0900", "2000"], "month": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "weekday": [1, 2, 3, 4, 5, 6, 7]
+          {"time": ["2000", "2200"], "month": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "weekday": [1, 2, 3, 4, 5]
+        }]
       },
       "geometry": {
         "type": "Polygon",
@@ -89,7 +93,8 @@ Each `Feature` must contain the following fields inside its `properties` object:
 | `type`                | string | Type of airspace (e.g., `"TSA"`, `"Local TRA"`). Keep the type as short as possible.        |
 | `lowerFL`             | number | Lower flight level (e.g., SFC → `0`. 500FT → `5`. 9500FT → `95`)                         |
 | `upperFL`             | number | Upper flight level (e.g., 10700 FT → `107`. UNL → `999`)                                  |
-| (`mustBeBookedWith`)  | array  | Optional list of airspace names that must be booked together or prior (e.g., ["TSA1", "TSA2"]) |
+| (`mustBeBookedWith`)  | array  | Optional list of airspace names that must be booked together or prior (e.g., `["TSA1", "TSA2"]`) |
+| (`activationLimits`)  | array  | Optional list of time + month + weekday limitations (see example json above) |
 
 
 Make sure that:
