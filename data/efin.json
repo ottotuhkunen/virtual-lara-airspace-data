@@ -1,6 +1,7 @@
 {
   "mapCenter": [25.3340, 64.9631],
   "mapZoom": 4.1,
+  "pilotDocs": "https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation",
   "groups": {
     "SAVU": {
       "airspaces": ["TSAJ01", "TSAJ16", "TSAJ17", "TSAH01", "TSAH44"],
