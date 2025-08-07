@@ -115,6 +115,7 @@ This file defines how the FIR is displayed in the app and how airspaces are grou
 {
   "mapCenter": [24.3, 58.5510],
   "mapZoom": 5.4,
+  "pilotDocs": "https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation",
   "groups": {
     "GROUP1": {
       "airspaces": ["TSA1", "TSA2"],
@@ -131,6 +132,7 @@ This file defines how the FIR is displayed in the app and how airspaces are grou
 |--------------|--------------------|------------------------------------------------------------------------|
 | `mapCenter`  | `[number, number]` | Map center `[longitude, latitude]` for the default view                |
 | `mapZoom`    | `number`           | Initial zoom level (e.g., `5.4`)                                       |
+| (`pilotDocs`)  | `string`         | Optional URL to local procedures for Area Reservations                 |
 | `groups`     | `object`           | A collection of airspace groups for organizing layers and filtering    |
 
 Each entry in the `groups` object defines a preset selection of many airspace blocks. This makes it faster for the user to select commonly grouped airspace selections.
