@@ -205,7 +205,9 @@ Before submitting a Pull Request, ensure:
 After submitting and Approved Pull Request:
 - Navigate to [lara-backend.lusep.fi/topsky/xxxx.txt](https://lara-backend.lusep.fi/topsky/lara.txt) (replace xxxx with your FIR code)
 - The file shows all **currently ongoing** reservations. By default it includes a dummy reservation `VLARA:350101:350101:0:1000:1001:0:100:VLARA:`. This makes sure that TopSky is able to read the file at all times even when no reservations are present.
-- Navigate to plugins/ `TopSkySettings.txt` and add the URL as follows: `HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/xxxx.txt`
+- Navigate to plugins/ `TopSkySettings.txt` and add the following details:
+  - `HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/xxxx.txt`
+  - `Areas_PreActiveTime=900` use at least 900s (15min) 
     
 ---
 
