@@ -5,7 +5,7 @@
   "groups": {
     "No Presets": {
       "airspaces": [""],
-      "lowerFL": 30,
+      "lowerFL": 0,
       "upperFL": 999
     }
   }
