@@ -1,0 +1,56 @@
+{
+  "mapCenter": [53.413333333333, 9.8308333333333],
+  "mapZoom": 4.1,
+  "groups": {
+    "LILLY ANCHOR": {
+      "airspaces": ["LILLY ANCHOR", "EDR201B", "EDR201C"],
+      "lowerFL": 90,
+      "upperFL": 230
+    },
+    "NORTHSEA ANCHOR": {
+      "airspaces": ["NORTHSEA ANCHOR", "EDD100"],
+      "lowerFL": 70,
+      "upperFL": 300
+    },
+    "SANDRA ANCHOR LOW": {
+      "airspaces": ["SANDRA ANCHOR", "EDR202A", "EDR202B", "EDR202C", "EDR202D"],
+      "lowerFL": 90,
+      "upperFL": 245
+    },
+    "SANDRA ANCHOR HIGH": {
+      "airspaces": ["SANDRA ANCHOR", "EDR302A", "EDR302C"],
+      "lowerFL": 245,
+      "upperFL": 300
+    },
+    "JANIN ANCHOR": {
+      "airspaces": ["JANIN ANCHOR", "BASIC1A", "BASIC1B", "BASIC1C", "BASIC1D", "BASIC1E"],
+      "lowerFL": 100,
+      "upperFL": 350
+    },
+    "TINA ANCHOR": {
+      "airspaces": ["TINA ANCHOR", "BASIC2A", "BASIC2B", "BASIC2C", "BASIC2D", "BASIC2E"],
+      "lowerFL": 100,
+      "upperFL": 350
+    },
+    "MERLE ANCHOR": {
+      "airspaces": ["MERLE ANCHOR", "MORE120"],
+      "lowerFL": 160,
+      "upperFL": 220
+    },
+    "NELE ANCHOR": {
+      "airspaces": ["NELE ANCHOR", "MORE101", "MORE102"],
+      "lowerFL": 230,
+      "upperFL": 270
+    },
+    "MVPA BASIC 1": {
+      "airspaces": ["BASIC1A", "BASIC1B", "BASIC1C", "BASIC1D", "BASIC1E"],
+      "lowerFL": 100,
+      "upperFL": 660
+    },
+    "MVPA BASIC 2": {
+      "airspaces": ["BASIC2A", "BASIC2B", "BASIC2C", "BASIC2D", "BASIC2E"],
+      "lowerFL": 100,
+      "upperFL": 660
+    }
+  }
+}
