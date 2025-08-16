@@ -1,9 +1,9 @@
 {
-  "mapCenter": [53.413333333333, 9.8308333333333],
+  "mapCenter": [9.8308333333333, 53.413333333333],
   "mapZoom": 4.1,
   "groups": {
     "LILLY ANCHOR": {
-      "airspaces": ["LILLY ANCHOR", "EDR201B", "EDR201C"],
+      "airspaces": ["LILLY ANCHOR", "ED-R201B", "ED-R201C"],
       "lowerFL": 90,
       "upperFL": 230
     },
@@ -13,12 +13,12 @@
       "upperFL": 300
     },
     "SANDRA ANCHOR LOW": {
-      "airspaces": ["SANDRA ANCHOR", "EDR202A", "EDR202B", "EDR202C", "EDR202D"],
+      "airspaces": ["SANDRA ANCHOR", "ED-R202A", "ED-R202B", "ED-R202C", "ED-R202D"],
       "lowerFL": 90,
       "upperFL": 245
     },
     "SANDRA ANCHOR HIGH": {
-      "airspaces": ["SANDRA ANCHOR", "EDR302A", "EDR302C"],
+      "airspaces": ["SANDRA ANCHOR", "ED-R302A", "ED-R302C"],
       "lowerFL": 245,
       "upperFL": 300
     },
