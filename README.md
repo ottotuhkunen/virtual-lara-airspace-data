@@ -108,6 +108,7 @@ Cross-Border areas (optional):
 - `"foreignClusters": ["efin"]` → Helsinki FIR will also get the details of this airspace
 - The areas may be added into the geojson of the other FIR either as `"name": ""` (not reservable) or with the same name as in the parent FIR (reservable in both FIRs)
 - Currently only the FIR creating the reservation will receive the automatic TopSky activation
+- Make sure the airspace name matches in both FIRs TopSky areas.txt
 
 ---
 
