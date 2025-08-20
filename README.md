@@ -95,13 +95,19 @@ Each `Feature` must contain the following fields inside its `properties` object:
 | `upperFL`             | number | Upper flight level (e.g., 10700 FT → `107`. UNL → `999`)                                  |
 | (`mustBeBookedWith`)  | array  | Optional list of airspace names that must be booked together or prior (e.g., `["TSA1", "TSA2"]`) |
 | (`activationLimits`)  | array  | Optional list of time + month + weekday limitations (see example json above) |
-
+| (`foreignClusters`)   | array  | Optional list of fir codes in lower case (e.g., `["efin"]`) - check information below! |
 
 Make sure that:
 - Each airspace has a **distinct `name`** and it shall **match with TopSky areas.txt**.
 - Note! If you leave the name empty `"name": ""`, the shape will be visible on the map but not as a reservable airspace. This might be useful in order to display country borders etc.
 - Coordinates are listed in the `[longitude, latitude]` format.
 - The polygon is **closed** — the first and last coordinate pairs should match.
+
+Cross-Border areas (optional):
+- If the area is located near FIR borders, and both parties require details of the same airspace, add the following line to the airspace properties:
+- `"foreignClusters": ["efin"]` → Helsinki FIR will also get the details of this airspace
+- The areas may be added into the geojson of the other FIR either as `"name": ""` (not reservable) or with the same name as in the parent FIR (reservable in both FIRs)
+- Currently only the FIR creating the reservation will receive the automatic TopSky activation
 
 ---
 
