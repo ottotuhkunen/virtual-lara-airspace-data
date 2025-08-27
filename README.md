@@ -1,3 +1,6 @@
+![Virtual LARA](https://wiki.vatsim-scandinavia.org/uploads/images/gallery/2025-08/lara.jpg)
+[![lara-version](https://img.shields.io/badge/LARA-1.2.3-blue.svg)](https://lara.lusep.fi/)
+
 # V-LARA Airspace Data
 
 This repository contains airspace data for the V-LARA system.
