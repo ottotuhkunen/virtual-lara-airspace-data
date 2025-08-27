@@ -1,12 +1,13 @@
 ![Virtual LARA](https://wiki.vatsim-scandinavia.org/uploads/images/gallery/2025-08/lara.jpg)
 [![lara-version](https://img.shields.io/badge/LARA-1.2.3-blue.svg)](https://lara.lusep.fi/)
+[![pilot-manual](https://img.shields.io/badge/Pilot%20Manual-blue.svg)](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation)
+[![ATC-manual](https://img.shields.io/badge/ATC%20Manual-blue.svg)](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guid)
+
+
 
 # V-LARA Airspace Data
 
 This repository contains airspace data for the V-LARA system.
-
-- [Pilot Manual](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation) 
-- [ATC Manual](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guide) 
 
 If you'd like to add your country's FIR or a new airspace dataset, follow the steps below.
 
