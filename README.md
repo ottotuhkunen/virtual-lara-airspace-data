@@ -22,6 +22,12 @@ You will need to create **two files** named after your FIR (replace `xxxx` with 
 
 This file should follow the GeoJSON format and define each airspace volume as a `Feature`.
 
+### TopSky Converter Tool
+
+- You can easily convert TopSkyAreas.txt files into V-LARA GeoJSON format using the [Converter Tool](https://lara.lusep.fi/#/converter)
+- After converting, please check the file manually. Only reservable areas shall be included!
+- You can check the validity of the V-LARA GeoJSON file using the [Data Quality Tool](https://lara.lusep.fi/#/dqt)
+
 **Example: `myfir.geojson`**
 
 ```json
