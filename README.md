@@ -1,7 +1,7 @@
 ![Virtual LARA](https://wiki.vatsim-scandinavia.org/uploads/images/gallery/2025-08/lara.jpg)
 [![lara-version](https://img.shields.io/badge/LARA-1.2.3-blue.svg)](https://lara.lusep.fi/)
-[![pilot-manual](https://img.shields.io/badge/Pilot%20Manual-blue.svg)](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation)
-[![ATC-manual](https://img.shields.io/badge/ATC%20Manual-blue.svg)](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guid)
+[![pilot-manual](https://img.shields.io/badge/Pilot%20Manual-gray.svg)](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation)
+[![ATC-manual](https://img.shields.io/badge/ATC%20Manual-gray.svg)](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guid)
 
 
 
