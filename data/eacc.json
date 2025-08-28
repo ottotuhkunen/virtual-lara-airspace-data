@@ -4,9 +4,7 @@
   "pilotDocs": "https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation",
   "groups": {
     "GROUP1": {
-      "airspaces": ["TSA1", "TSA2"],
-      "lowerFL": 30,
-      "upperFL": 999
+      "airspaces": ["TSA1", "TSA2"]
     }
   }
 }
