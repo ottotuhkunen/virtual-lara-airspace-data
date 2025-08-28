@@ -1,15 +1,13 @@
 ![Virtual LARA](https://wiki.vatsim-scandinavia.org/uploads/images/gallery/2025-08/lara.jpg)
-[![lara-version](https://img.shields.io/badge/LARA-1.2.3-blue.svg)](https://lara.lusep.fi/)
+[![lara-version](https://img.shields.io/badge/LARA-1.2.4-blue.svg)](https://lara.lusep.fi/)
 [![pilot-manual](https://img.shields.io/badge/Pilot%20Manual-gray.svg)](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation)
 [![ATC-manual](https://img.shields.io/badge/ATC%20Manual-gray.svg)](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guide)
-
-
 
 # V-LARA Airspace Data
 
 This repository contains airspace data for the V-LARA system.
 
-If you'd like to add your country's FIR or a new airspace dataset, follow the steps below.
+If you'd like to add a new FIR (Cluster), please follow the steps below.
 
 ---
 
@@ -156,13 +154,13 @@ Each entry in the `groups` object defines a preset selection of many airspace bl
 
 ### 🧱 Group Object Structure
 
-Each group must include:
+Each group includes:
 
 | Field        | Type       | Description                                                  |
 |--------------|------------|--------------------------------------------------------------|
 | `airspaces`  | `string[]` | A list of airspace `name`s that belong to this group         |
-| `lowerFL`    | `number`   | Preset Lower FL (e.g., `30`)         |
-| `upperFL`    | `number`   | Preset Upper FL (e.g., `999`)        |
+| (`lowerFL`)  | `number`   | Optional Group Lower FL (e.g., `30`) - applies to all areas in group  |
+| (`upperFL`)  | `number`   | Optional Group Upper FL (e.g., `999`) - applies to all areas in group |
 
 Make sure that the `airspaces` name's matches with the names defined in the .geojson file.
 
@@ -179,9 +177,7 @@ Make sure that the `airspaces` name's matches with the names defined in the .geo
       "upperFL": 245
     },
     "POKKA": {
-      "airspaces": ["TSA3", "TSA4", "TRA87W"],
-      "lowerFL": 95,
-      "upperFL": 999
+      "airspaces": ["TSA3", "TSA4", "TRA87W"]
     }
   }
 }
@@ -195,9 +191,7 @@ If your FIR does not have grouped airspace reservations:
   "mapZoom": 6,
   "groups": {
     "No Presets": {
-      "airspaces": [""],
-      "lowerFL": 0,
-      "upperFL": 999
+      "airspaces": [""]
     }
   }
 }
@@ -207,7 +201,7 @@ If your FIR does not have grouped airspace reservations:
 
 Before submitting a Pull Request, ensure:
 
-- [ ] Each airspace `Feature` in your `.geojson` has a unique and descriptive `name` and the name matches with an airspace defined in TopSky areas.txt.
+- [ ] Each airspace `Feature` in your `.geojson` has a unique `name` and the name matches with an airspace defined in TopSky areas.txt.
 - [ ] All `name`s in your `.json` file’s `groups.airspaces` array **match exactly** with the `name` values in your `.geojson`
 - [ ] Your `.geojson` file is valid [GeoJSON](https://geojson.org/) (you can use [geojson.io](https://geojson.io) or [geojsonlint.com](https://geojsonlint.com) to validate)
 - [ ] Polygons in the `.geojson` are properly **closed** (i.e. the first and last coordinate pair are the same)
