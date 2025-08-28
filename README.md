@@ -3,6 +3,7 @@
 [![pilot-manual](https://img.shields.io/badge/Pilot%20Manual-gray.svg)](https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation)
 [![ATC-manual](https://img.shields.io/badge/ATC%20Manual-gray.svg)](https://wiki.vatsim-scandinavia.org/books/special-procedures/page/v-lara-atc-guide)
 
+
 # V-LARA Airspace Data
 
 This repository contains airspace data for the V-LARA system.
@@ -222,6 +223,17 @@ After submitting and Approved Pull Request:
 - For automatic area loading, the `Airspace Management Window` shall be set to open automatically on startup
     
 ---
+
+## ⚙️ V-LARA Cluster Settings
+
+The ``Cluster Housekeeping`` window is visible for VATSIM users with assigned National Housekeeper role in V-LARA.
+This role can be requested from the V-LARA developer and additional users may be added via the ``Cluster Housekeeping`` window by any housekeeper.
+
+National Housekeepers may change the following settings:
+
+![Cluster Manager Settings](https://wiki.vatsim-scandinavia.org/uploads/images/gallery/2025-08/cluster-manager.png)
+
+- To apply changes, click on the ``SAVE SETTINGS`` button
 
 ## ❓ Questions and manuals
 
