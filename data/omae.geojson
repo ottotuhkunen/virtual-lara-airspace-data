@@ -167,7 +167,8 @@
                 "name": "OMR67",
                 "type": "TSA",
                 "lowerFL": 95,
-                "upperFL": 300
+                "upperFL": 300,
+                "foreignClusters": ["oomm"]
             },
             "geometry": {
                 "type": "Polygon",
@@ -1047,7 +1048,8 @@
                 "name": "TRAINING AREA 001",
                 "type": "TSA",
                 "lowerFL": 30,
-                "upperFL": 90
+                "upperFL": 90,
+                "foreignClusters": ["oomm"]
             },
             "geometry": {
                 "type": "Polygon",
@@ -1123,7 +1125,8 @@
                 "name": "TRAINING AREA 002",
                 "type": "TSA",
                 "lowerFL": 30,
-                "upperFL": 90
+                "upperFL": 90,
+                "foreignClusters": ["oomm"]
             },
             "geometry": {
                 "type": "Polygon",
@@ -1707,7 +1710,8 @@
                 "name": "AS 03",
                 "type": "TSA",
                 "lowerFL": 50,
-                "upperFL": 130
+                "upperFL": 130,
+                "mustBeBookedWith": ["OMR95", "AS 03"]
             },
             "geometry": {
                 "type": "Polygon",
@@ -1747,7 +1751,8 @@
                 "name": "AS 04",
                 "type": "TSA",
                 "lowerFL": 15,
-                "upperFL": 130
+                "upperFL": 130,
+                "mustBeBookedWith": ["OMR95"]
             },
             "geometry": {
                 "type": "Polygon",
