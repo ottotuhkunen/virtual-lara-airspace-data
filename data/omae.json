@@ -3,10 +3,15 @@
   "mapZoom": 7,
   "pilotDocs": "https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation",
   "groups": {
-    "no presets": {
-      "airspaces": [""],
+    "PALM PDZ": {
+      "airspaces": ["AS 03", "AS 04", "OMR95"],
       "lowerFL": 0,
-      "upperFL": 999
+      "upperFL": 130
+    },
+    "RAK PDZ": {
+      "airspaces": ["OMD15", "OMD16"],
+      "lowerFL": 0,
+      "upperFL": 90
     }
   }
 }
