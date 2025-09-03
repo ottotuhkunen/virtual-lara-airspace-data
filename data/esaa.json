@@ -1,0 +1,16 @@
+{
+  "mapCenter": [14.6, 62.8],
+  "mapZoom": 4.5
+  "groups": {
+    "EUCBA10 Sweden": {
+      "airspaces": ["TRA80"],
+      "lowerFL": 95,
+      "upperFL": 660
+    },
+    "CBO BOTHNIA Sweden": {
+      "airspaces": ["D184", "D185"],
+      "lowerFL": 0,
+      "upperFL": 660
+    }
+  }
+}
