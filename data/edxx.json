@@ -51,6 +51,16 @@
       "airspaces": ["BASIC2A", "BASIC2B", "BASIC2C", "BASIC2D", "BASIC2E"],
       "lowerFL": 100,
       "upperFL": 660
+    },
+    "VIRGIN ANCHOR": {
+      "airspaces": ["VIRGIN ANCHOR", "ED-R205A", "ED-R205B", "ED-R205C", "ED-R205D"],
+      "lowerFL": 100,
+      "upperFL": 245
+    },
+    "LUCA ANCHOR": {
+      "airspaces": ["LUCA ANCHOR", "ED-R205B", "ED-R205C"],
+      "lowerFL": 100,
+      "upperFL": 245
     }
   }
 }
