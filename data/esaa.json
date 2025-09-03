@@ -1,6 +1,6 @@
 {
   "mapCenter": [14.6, 62.8],
-  "mapZoom": 4.5
+  "mapZoom": 4.5,
   "groups": {
     "EUCBA10 Sweden": {
       "airspaces": ["TRA80"],
