@@ -65,13 +65,13 @@
     },
     "EUCBA10 Finland": {
       "airspaces": ["TRAH31", "TRAJ18", "TRAJ19", "TRAJ23"],
-      "lowerFL": 30,
-      "upperFL": 999
+      "lowerFL": 95,
+      "upperFL": 660
     },
     "CBO BOTHNIA Finland": {
       "airspaces": ["EFD160N", "EFD160S"],
-      "lowerFL": 30,
-      "upperFL": 999
+      "lowerFL": 95,
+      "upperFL": 660
     }
   }
 }
