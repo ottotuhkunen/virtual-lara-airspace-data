@@ -620,9 +620,6 @@
       }
     },
     {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "name": "R25",
@@ -785,9 +782,7 @@
           ]
         ]
       }
-    }
-  ]
-}
+    },
     {
       "type": "Feature",
       "properties": {
