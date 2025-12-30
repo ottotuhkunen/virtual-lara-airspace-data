@@ -2307,7 +2307,8 @@
                 "name": "EDD47C",
                 "type": "ED-D",
                 "upperFL": 300,
-                "lowerFL": 70
+                "lowerFL": 70,
+				"foreignClusters": ["esaa"]
             },
             "geometry": {
                 "type": "Polygon",
