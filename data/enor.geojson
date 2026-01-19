@@ -7,7 +7,7 @@
         "name": "R409",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -43,7 +43,7 @@
         "name": "R410",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -79,7 +79,7 @@
         "name": "R411",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -115,7 +115,7 @@
         "name": "R412",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -151,7 +151,7 @@
         "name": "R413",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -1899,7 +1899,7 @@
         "name": "R414",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -1939,7 +1939,7 @@
         "name": "R415",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -1987,7 +1987,7 @@
         "name": "R416",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -2023,7 +2023,7 @@
         "name": "R417",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -2871,7 +2871,7 @@
         "name": "R418",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -2907,7 +2907,7 @@
         "name": "R419",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -3483,7 +3483,7 @@
         "name": "R420",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 999
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -4091,7 +4091,7 @@
           [
             [
               14.298333333333334,
-              69.51638888888888
+              69.51666666666667
             ],
             [
               15.631666666666668,
@@ -4099,15 +4099,15 @@
             ],
             [
               16.248333333333335,
-              69.76638888888888
+              69.76666666666667
             ],
             [
               14.915000000000001,
-              69.29972222222221
+              69.3
             ],
             [
               14.298333333333334,
-              69.51638888888888
+              69.51666666666667
             ]
           ]
         ]
@@ -4126,11 +4126,11 @@
         "coordinates": [
           [
             [
-              16.333055555555557,
+              16.333333333333332,
               69.04333333333334
             ],
             [
-              16.06638888888889,
+              16.066666666666666,
               69.13166666666666
             ],
             [
@@ -4139,14 +4139,14 @@
             ],
             [
               16.898333333333333,
-              69.26638888888888
+              69.26666666666667
             ],
             [
               16.798333333333336,
               69.04333333333334
             ],
             [
-              16.333055555555557,
+              16.333333333333332,
               69.04333333333334
             ]
           ]
@@ -6887,11 +6887,11 @@
           [
             [
               8.247222222222222,
-              62.41638888888889
+              62.416666666666664
             ],
             [
               8.6525,
-              62.41638888888889
+              62.416666666666664
             ],
             [
               8.904166666666667,
@@ -6907,7 +6907,7 @@
             ],
             [
               8.247222222222222,
-              62.41638888888889
+              62.416666666666664
             ]
           ]
         ]
@@ -6927,11 +6927,11 @@
           [
             [
               7.9927777777777775,
-              62.41638888888889
+              62.416666666666664
             ],
             [
               8.247222222222222,
-              62.41638888888889
+              62.416666666666664
             ],
             [
               8.42861111111111,
@@ -6951,7 +6951,7 @@
             ],
             [
               7.9927777777777775,
-              62.41638888888889
+              62.416666666666664
             ]
           ]
         ]
@@ -8414,7 +8414,7 @@
       "properties": {
         "name": "T701",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8454,7 +8454,7 @@
       "properties": {
         "name": "D702",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8494,7 +8494,7 @@
       "properties": {
         "name": "D703",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8530,7 +8530,7 @@
       "properties": {
         "name": "T704",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8570,7 +8570,7 @@
       "properties": {
         "name": "D705",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8618,7 +8618,7 @@
       "properties": {
         "name": "T706",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8670,7 +8670,7 @@
       "properties": {
         "name": "T707",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8714,7 +8714,7 @@
       "properties": {
         "name": "T708",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8750,7 +8750,7 @@
       "properties": {
         "name": "T709",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8786,7 +8786,7 @@
       "properties": {
         "name": "T710",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8834,7 +8834,7 @@
       "properties": {
         "name": "T711",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8878,7 +8878,7 @@
       "properties": {
         "name": "T712",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8922,7 +8922,7 @@
       "properties": {
         "name": "T713",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -8966,7 +8966,7 @@
       "properties": {
         "name": "T714",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9122,7 +9122,7 @@
       "properties": {
         "name": "D718",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9160,53 +9160,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "D719",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              18.089166666666664,
-              70.49027777777778
-            ],
-            [
-              19.506944444444443,
-              70.69027777777778
-            ],
-            [
-              19.5,
-              70.2213888888889
-            ],
-            [
-              19.25,
-              70.25
-            ],
-            [
-              18.75,
-              70.25
-            ],
-            [
-              18.4475,
-              70.12916666666666
-            ],
-            [
-              18.089166666666664,
-              70.49027777777778
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "D513",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9242,7 +9198,7 @@
       "properties": {
         "name": "D516",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9294,7 +9250,7 @@
       "properties": {
         "name": "T721",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9338,7 +9294,7 @@
       "properties": {
         "name": "T722",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9374,7 +9330,7 @@
       "properties": {
         "name": "T723",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9470,7 +9426,7 @@
       "properties": {
         "name": "T731",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 65,
         "upperFL": 660
       },
       "geometry": {
@@ -9522,7 +9478,7 @@
       "properties": {
         "name": "T732",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9558,7 +9514,7 @@
       "properties": {
         "name": "T733",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9598,7 +9554,7 @@
       "properties": {
         "name": "T734",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 200,
         "upperFL": 660
       },
       "geometry": {
@@ -9632,122 +9588,6 @@
             [
               17.333333333333332,
               69.66666666666667
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T735",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              16.570833333333333,
-              69.20611111111111
-            ],
-            [
-              17.481111111111108,
-              69.51972222222223
-            ],
-            [
-              17.583333333333332,
-              69.41666666666667
-            ],
-            [
-              18.26527777777778,
-              69.36999999999999
-            ],
-            [
-              18.645555555555553,
-              69.30194444444444
-            ],
-            [
-              18.05138888888889,
-              69.16666666666667
-            ],
-            [
-              17.65,
-              68.99777777777778
-            ],
-            [
-              16.570833333333333,
-              69.20611111111111
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T736",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              16.570833333333333,
-              69.20611111111111
-            ],
-            [
-              17.65,
-              68.99777777777778
-            ],
-            [
-              17.06972222222222,
-              68.74444444444444
-            ],
-            [
-              15.683333333333334,
-              68.81666666666666
-            ],
-            [
-              16.570833333333333,
-              69.20611111111111
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T737",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15.683333333333334,
-              68.81666666666666
-            ],
-            [
-              17.06972222222222,
-              68.74444444444444
-            ],
-            [
-              16.0125,
-              68.31888888888888
-            ],
-            [
-              15.683333333333334,
-              68.81666666666666
             ]
           ]
         ]
@@ -10126,7 +9966,7 @@
       "properties": {
         "name": "T117",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 150,
         "upperFL": 660
       },
       "geometry": {
@@ -10182,7 +10022,7 @@
       "properties": {
         "name": "D536",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 160
       },
       "geometry": {
@@ -10222,7 +10062,7 @@
       "properties": {
         "name": "T118",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 150,
         "upperFL": 660
       },
       "geometry": {
@@ -10262,7 +10102,7 @@
       "properties": {
         "name": "D539",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10306,7 +10146,7 @@
       "properties": {
         "name": "T119",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 150,
         "upperFL": 660
       },
       "geometry": {
@@ -10394,7 +10234,7 @@
       "properties": {
         "name": "D542",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10514,7 +10354,7 @@
       "properties": {
         "name": "D545",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10570,7 +10410,7 @@
       "properties": {
         "name": "T121",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 175,
         "upperFL": 660
       },
       "geometry": {
@@ -10638,7 +10478,7 @@
       "properties": {
         "name": "D548",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10714,7 +10554,7 @@
       "properties": {
         "name": "D603",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10746,7 +10586,7 @@
       "properties": {
         "name": "D612",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10790,8 +10630,8 @@
       "properties": {
         "name": "D604",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -10826,8 +10666,8 @@
       "properties": {
         "name": "D605",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -10862,7 +10702,7 @@
       "properties": {
         "name": "D606",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10898,7 +10738,7 @@
       "properties": {
         "name": "D607",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -10938,8 +10778,8 @@
       "properties": {
         "name": "D608",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -10974,8 +10814,8 @@
       "properties": {
         "name": "D609",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -11010,7 +10850,7 @@
       "properties": {
         "name": "D610",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 90,
         "upperFL": 660
       },
       "geometry": {
@@ -11046,8 +10886,8 @@
       "properties": {
         "name": "D611",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -11082,7 +10922,7 @@
       "properties": {
         "name": "T123",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 195,
         "upperFL": 660
       },
       "geometry": {
@@ -11339,7 +11179,7 @@
         "name": "T131",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -11459,7 +11299,7 @@
         "name": "T132",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -11527,7 +11367,7 @@
         "name": "T133",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -11591,7 +11431,7 @@
         "name": "T134",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -11672,54 +11512,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "T135",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.585555555555556,
-              64.23861111111111
-            ],
-            [
-              12.45,
-              64.5
-            ],
-            [
-              12.281666666666668,
-              64.05583333333333
-            ],
-            [
-              10.421944444444444,
-              63.86222222222222
-            ],
-            [
-              10.79,
-              64.13388888888889
-            ],
-            [
-              10.585555555555556,
-              64.23861111111111
-            ],
-            [
-              10.585555555555556,
-              64.23861111111111
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "T136",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 250
       },
       "geometry": {
         "type": "Polygon",
@@ -11759,7 +11555,7 @@
         "name": "T137",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 250
       },
       "geometry": {
         "type": "Polygon",
@@ -11814,8 +11610,8 @@
       "properties": {
         "name": "T138",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 95,
+        "upperFL": 150
       },
       "geometry": {
         "type": "Polygon",
@@ -11976,114 +11772,6 @@
             [
               12.137777777777778,
               61.723888888888894
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T144",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.377777777777778,
-              61.73527777777778
-            ],
-            [
-              11.172222222222222,
-              61.608333333333334
-            ],
-            [
-              11.1,
-              61.13333333333333
-            ],
-            [
-              10.335833333333333,
-              61.33222222222223
-            ],
-            [
-              10.377777777777778,
-              61.73527777777778
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T145",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.400277777777777,
-              62
-            ],
-            [
-              11.233333333333333,
-              62
-            ],
-            [
-              11.172222222222222,
-              61.608333333333334
-            ],
-            [
-              10.377777777777778,
-              61.73527777777778
-            ],
-            [
-              10.400277777777777,
-              62
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T146",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.425277777777778,
-              62.49333333333333
-            ],
-            [
-              11.295833333333333,
-              62.26111111111111
-            ],
-            [
-              11.233333333333333,
-              62
-            ],
-            [
-              10.400277777777777,
-              62
-            ],
-            [
-              10.425277777777778,
-              62.49333333333333
             ]
           ]
         ]
@@ -12344,178 +12032,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "T147",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              9.63361111111111,
-              63.5025
-            ],
-            [
-              9.65611111111111,
-              63.144999999999996
-            ],
-            [
-              8.904166666666667,
-              63.03638888888889
-            ],
-            [
-              8.825833333333334,
-              63.02583333333333
-            ],
-            [
-              8.81,
-              63.3925
-            ],
-            [
-              9.63361111111111,
-              63.5025
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T148",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.253333333333334,
-              63.44305555555555
-            ],
-            [
-              8.81,
-              63.3925
-            ],
-            [
-              8.825833333333334,
-              63.02583333333333
-            ],
-            [
-              8.5125,
-              62.97777777777778
-            ],
-            [
-              8.393333333333333,
-              62.85638888888889
-            ],
-            [
-              7.954722222222222,
-              63.08694444444445
-            ],
-            [
-              7.776666666666666,
-              63.18277777777777
-            ],
-            [
-              8.253333333333334,
-              63.44305555555555
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T149",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.776666666666666,
-              63.18277777777777
-            ],
-            [
-              7.954722222222222,
-              63.08694444444445
-            ],
-            [
-              8.385277777777777,
-              62.86055555555556
-            ],
-            [
-              8.393333333333333,
-              62.85638888888889
-            ],
-            [
-              8.194166666666668,
-              62.65138888888889
-            ],
-            [
-              8.171944444444444,
-              62.626111111111115
-            ],
-            [
-              7.438055555555556,
-              62.91972222222222
-            ],
-            [
-              7.776666666666666,
-              63.18277777777777
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T150",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.438055555555556,
-              62.91972222222222
-            ],
-            [
-              8.171944444444444,
-              62.626111111111115
-            ],
-            [
-              7.756944444444445,
-              62.144444444444446
-            ],
-            [
-              6.883333333333333,
-              62.477222222222224
-            ],
-            [
-              7.438055555555556,
-              62.91972222222222
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "T154",
         "type": "AMC",
         "lowerFL": 0,
@@ -12742,7 +12258,7 @@
       "properties": {
         "name": "T159",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 160,
         "upperFL": 660
       },
       "geometry": {
@@ -12838,7 +12354,7 @@
       "properties": {
         "name": "T161",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 160,
         "upperFL": 660
       },
       "geometry": {
@@ -12924,138 +12440,6 @@
             [
               7.683888888888889,
               61.02861111111111
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T151",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.883333333333333,
-              62.477222222222224
-            ],
-            [
-              7.756944444444445,
-              62.144444444444446
-            ],
-            [
-              7.219444444444445,
-              61.77972222222222
-            ],
-            [
-              6.5633333333333335,
-              62.00416666666667
-            ],
-            [
-              6.278333333333333,
-              62.12444444444444
-            ],
-            [
-              6.883333333333333,
-              62.477222222222224
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T152",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.278333333333333,
-              62.12444444444444
-            ],
-            [
-              6.5633333333333335,
-              62.00416666666667
-            ],
-            [
-              7.219444444444445,
-              61.77972222222222
-            ],
-            [
-              6.6,
-              61.345555555555556
-            ],
-            [
-              5.479722222222223,
-              61.65611111111111
-            ],
-            [
-              6.278333333333333,
-              62.12444444444444
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T153",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.479722222222223,
-              61.65611111111111
-            ],
-            [
-              6.6,
-              61.345555555555556
-            ],
-            [
-              5.858333333333333,
-              60.81055555555555
-            ],
-            [
-              5.708055555555556,
-              60.9075
-            ],
-            [
-              5.483333333333333,
-              61
-            ],
-            [
-              4.5,
-              61
-            ],
-            [
-              4.420833333333333,
-              61.01
-            ],
-            [
-              4.900277777777778,
-              61.30972222222222
-            ],
-            [
-              5.479722222222223,
-              61.65611111111111
             ]
           ]
         ]
@@ -13171,7 +12555,7 @@
         "name": "D590",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -13207,7 +12591,7 @@
         "name": "D591",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -13384,185 +12768,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "T166",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.473055555555556,
-              60.62777777777778
-            ],
-            [
-              7.112777777777778,
-              60.593611111111116
-            ],
-            [
-              8.307777777777778,
-              60.51916666666666
-            ],
-            [
-              8.155277777777778,
-              59.94555555555555
-            ],
-            [
-              8.158888888888889,
-              59.84444444444445
-            ],
-            [
-              6.758611111111111,
-              59.736666666666665
-            ],
-            [
-              6.473055555555556,
-              60.62777777777778
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T167",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.307777777777778,
-              60.51916666666666
-            ],
-            [
-              8.669166666666666,
-              60.49388888888889
-            ],
-            [
-              9.32,
-              60.46638888888889
-            ],
-            [
-              8.963888888888889,
-              59.868611111111115
-            ],
-            [
-              8.158888888888889,
-              59.84444444444445
-            ],
-            [
-              8.155277777777778,
-              59.94555555555555
-            ],
-            [
-              8.307777777777778,
-              60.51916666666666
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T168",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.758611111111111,
-              59.736666666666665
-            ],
-            [
-              8.158888888888889,
-              59.84444444444445
-            ],
-            [
-              8.171388888888888,
-              59.532222222222224
-            ],
-            [
-              8.181666666666667,
-              59.07666666666667
-            ],
-            [
-              7.5,
-              59
-            ],
-            [
-              7,
-              58.94166666666666
-            ],
-            [
-              6.758611111111111,
-              59.736666666666665
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "T169",
-        "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.158888888888889,
-              59.84444444444445
-            ],
-            [
-              8.963888888888889,
-              59.868611111111115
-            ],
-            [
-              8.733333333333333,
-              59.30166666666666
-            ],
-            [
-              8.733333333333333,
-              59.12916666666667
-            ],
-            [
-              8.181666666666667,
-              59.07666666666667
-            ],
-            [
-              8.171388888888888,
-              59.532222222222224
-            ],
-            [
-              8.158888888888889,
-              59.84444444444445
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "T170",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 180,
         "upperFL": 660
       },
       "geometry": {
@@ -13598,7 +12806,7 @@
       "properties": {
         "name": "D641",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 180,
         "upperFL": 660
       },
       "geometry": {
@@ -13634,7 +12842,7 @@
       "properties": {
         "name": "D642",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 180,
         "upperFL": 660
       },
       "geometry": {
@@ -13670,7 +12878,7 @@
       "properties": {
         "name": "D643",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 180,
         "upperFL": 660
       },
       "geometry": {
@@ -13710,7 +12918,7 @@
       "properties": {
         "name": "D618",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 180,
         "upperFL": 660
       },
       "geometry": {
@@ -13746,7 +12954,7 @@
       "properties": {
         "name": "D619",
         "type": "AMC",
-        "lowerFL": 0,
+        "lowerFL": 180,
         "upperFL": 660
       },
       "geometry": {
@@ -13782,8 +12990,8 @@
       "properties": {
         "name": "D620",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -13814,8 +13022,8 @@
       "properties": {
         "name": "D629",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -13862,8 +13070,8 @@
       "properties": {
         "name": "D630",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -13898,8 +13106,8 @@
       "properties": {
         "name": "D621",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -13934,8 +13142,8 @@
       "properties": {
         "name": "D622",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -13970,8 +13178,8 @@
       "properties": {
         "name": "D623",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14006,8 +13214,8 @@
       "properties": {
         "name": "D624",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14046,8 +13254,8 @@
       "properties": {
         "name": "D625",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14082,8 +13290,8 @@
       "properties": {
         "name": "D626",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14118,8 +13326,8 @@
       "properties": {
         "name": "D627",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14158,8 +13366,8 @@
       "properties": {
         "name": "D628",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14202,8 +13410,8 @@
       "properties": {
         "name": "D631",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14243,7 +13451,7 @@
         "name": "D640",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 200
       },
       "geometry": {
         "type": "Polygon",
@@ -14278,8 +13486,8 @@
       "properties": {
         "name": "D632",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14314,8 +13522,8 @@
       "properties": {
         "name": "D633",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14358,8 +13566,8 @@
       "properties": {
         "name": "D634",
         "type": "AMC",
-        "lowerFL": 0,
-        "upperFL": 660
+        "lowerFL": 90,
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14399,7 +13607,7 @@
         "name": "D635",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14435,7 +13643,7 @@
         "name": "D636",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 200
       },
       "geometry": {
         "type": "Polygon",
@@ -14471,7 +13679,7 @@
         "name": "D637",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -14507,7 +13715,7 @@
         "name": "D638",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 200
       },
       "geometry": {
         "type": "Polygon",
@@ -14539,7 +13747,7 @@
         "name": "D639",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 200
       },
       "geometry": {
         "type": "Polygon",
@@ -14575,7 +13783,7 @@
         "name": "T738",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 210
+        "upperFL": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -14615,7 +13823,7 @@
         "name": "T739",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 210
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -14663,7 +13871,7 @@
         "name": "T740",
         "type": "AMC",
         "lowerFL": 0,
-        "upperFL": 210
+        "upperFL": 45
       },
       "geometry": {
         "type": "Polygon",
