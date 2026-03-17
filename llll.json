@@ -1,0 +1,91 @@
+{
+  "mapCenter": [34.88, 31.30],
+  "mapZoom": 7.5,
+  "groups": {
+    "Area 11": {
+      "airspaces": ["11"],
+      "lowerFL": 50,
+      "upperFL": 300
+    },
+    "Area 12": {
+      "airspaces": ["12"],
+      "lowerFL": 50,
+      "upperFL": 300
+    },
+    "Area 31": {
+      "airspaces": ["31"],
+      "lowerFL": 70,
+      "upperFL": 300
+    },
+    "Area 32": {
+      "airspaces": ["32"],
+      "lowerFL": 50,
+      "upperFL": 300
+    },
+    "Area 51": {
+      "airspaces": ["51"],
+      "lowerFL": 220,
+      "upperFL": 260
+    },
+    "Area 53": {
+      "airspaces": ["53"],
+      "lowerFL": 320,
+      "upperFL": 500
+    },
+    "Area 5": {
+      "airspaces": ["5"],
+      "lowerFL": 180,
+      "upperFL": 260
+    },
+    "Area 4": {
+      "airspaces": ["4"],
+      "lowerFL": 120,
+      "upperFL": 300
+    },
+    "Area 2": {
+      "airspaces": ["2"],
+      "lowerFL": 120,
+      "upperFL": 300
+    },
+    "Area 8": {
+      "airspaces": ["8"],
+      "lowerFL": 120,
+      "upperFL": 300
+    },
+    "Area 95": {
+      "airspaces": ["95"],
+      "lowerFL": 120,
+      "upperFL": 300
+    },
+    "Area RANGE90": {
+      "airspaces": ["RANGE90"],
+      "lowerFL": 0,
+      "upperFL": 110
+    },
+    "Area 71": {
+      "airspaces": ["71"],
+      "lowerFL": 120,
+      "upperFL": 300
+    },
+    "Area 7": {
+      "airspaces": ["7"],
+      "lowerFL": 220,
+      "upperFL": 300
+    },
+    "Area 9 NORTH": {
+      "airspaces": ["9 NORTH"],
+      "lowerFL": 120,
+      "upperFL": 300
+    },
+    "Area 9 SOUTH": {
+      "airspaces": ["9 SOUTH"],
+      "lowerFL": 120,
+      "upperFL": 300
+    },
+    "AIR REFUEL EXTENDED": {
+      "airspaces": ["32", "51"],
+      "lowerFL": 50,
+      "upperFL": 300
+    }
+  }
+}
