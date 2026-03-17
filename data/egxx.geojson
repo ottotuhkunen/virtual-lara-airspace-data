@@ -553,7 +553,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD001",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 10
       },
@@ -597,7 +597,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD003",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -633,7 +633,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD004",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -669,7 +669,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD005A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 80
       },
@@ -977,7 +977,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD005B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 80
       },
@@ -1153,7 +1153,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD006A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1189,7 +1189,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD006B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 80
       },
@@ -1229,7 +1229,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD006C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 80
       },
@@ -1265,7 +1265,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD007A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1309,7 +1309,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD007B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1345,7 +1345,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD007C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -1389,7 +1389,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD008A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1425,7 +1425,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD008B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1461,7 +1461,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD008C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1545,7 +1545,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD009A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1617,7 +1617,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD009B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -1793,7 +1793,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD011A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -1841,7 +1841,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD011B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 45
       },
@@ -1881,7 +1881,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD011C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -1929,7 +1929,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD012",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 180
       },
@@ -1981,7 +1981,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD013",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -2029,7 +2029,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD014",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 50
       },
@@ -2085,7 +2085,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD015",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 36
       },
@@ -2393,7 +2393,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD017",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -2429,7 +2429,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD021",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 150
       },
@@ -2485,7 +2485,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD023",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -2521,7 +2521,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD026",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 150
       },
@@ -2609,7 +2609,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD031",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 150
       },
@@ -2661,7 +2661,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD036",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -2697,7 +2697,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD037",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -2733,7 +2733,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD038",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -2773,7 +2773,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD039",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -2813,7 +2813,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD040",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -2849,7 +2849,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD061",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -3157,7 +3157,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD064A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -3209,7 +3209,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD064B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -3249,7 +3249,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD064C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -3301,7 +3301,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD098A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -3337,7 +3337,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD098B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -3377,7 +3377,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD098C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -3421,7 +3421,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD098D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -3473,7 +3473,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD098E",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -3525,7 +3525,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD098F",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 8
       },
@@ -3605,7 +3605,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD098G",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -3640,8 +3640,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EGD098H",
-        "type": "DANGER",
+        "name": "EGD098",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 8
       },
@@ -3696,72 +3696,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EGD098L",
-        "type": "DANGER",
-        "lowerFL": 0,
-        "upperFL": 9
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.3352777777777778,
-              51.145833333333336
-            ],
-            [
-              1.3741666666666668,
-              51.14194444444444
-            ],
-            [
-              1.3756511111111112,
-              51.139180833333334
-            ],
-            [
-              1.376386388888889,
-              51.133318333333335
-            ],
-            [
-              1.3756511111111112,
-              51.12745638888889
-            ],
-            [
-              1.3734636111111111,
-              51.121739444444444
-            ],
-            [
-              1.3698775,
-              51.116308333333336
-            ],
-            [
-              1.3649811111111112,
-              51.11129638888889
-            ],
-            [
-              1.36,
-              51.10805555555556
-            ],
-            [
-              1.3433333333333333,
-              51.130833333333335
-            ],
-            [
-              1.3344444444444443,
-              51.1325
-            ],
-            [
-              1.3352777777777778,
-              51.145833333333336
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EGD110",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -3805,7 +3741,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD113A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 400
       },
@@ -3901,7 +3837,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD113B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 450
       },
@@ -3985,7 +3921,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD115A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 270
       },
@@ -4149,7 +4085,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD115B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 500
       },
@@ -4281,7 +4217,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD117",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 230
       },
@@ -4325,7 +4261,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD118",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 120
       },
@@ -4493,7 +4429,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD119",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 50
       },
@@ -4801,7 +4737,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD120",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 25
       },
@@ -4957,7 +4893,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD122A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 80,
         "upperFL": 160
       },
@@ -5001,7 +4937,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD122B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 80,
         "upperFL": 160
       },
@@ -5041,7 +4977,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD122C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 80,
         "upperFL": 160
       },
@@ -5089,7 +5025,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD123 (Weekdays)",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 30,
         "upperFL": 230
       },
@@ -5145,7 +5081,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD124",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -5453,7 +5389,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD125 (Weekdays)",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 30,
         "upperFL": 230
       },
@@ -5501,7 +5437,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD127 (Day)",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 120
       },
@@ -5549,7 +5485,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD127 (Night)",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 80
       },
@@ -5597,7 +5533,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD129",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 120
       },
@@ -5905,7 +5841,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD132",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 25
       },
@@ -5953,7 +5889,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD133A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 12
       },
@@ -5997,7 +5933,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD133B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 12
       },
@@ -6041,7 +5977,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD136",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 130
       },
@@ -6073,7 +6009,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD138A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 60
       },
@@ -6109,7 +6045,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD138B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 50
       },
@@ -6145,7 +6081,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD138C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 60
       },
@@ -6181,7 +6117,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD138D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 130
       },
@@ -6241,7 +6177,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 145
       },
@@ -6281,7 +6217,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 145
       },
@@ -6329,7 +6265,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 145,
         "upperFL": 660
       },
@@ -6361,7 +6297,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 55,
         "upperFL": 660
       },
@@ -6393,7 +6329,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201F",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 145
       },
@@ -6437,7 +6373,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201G",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 145
       },
@@ -6485,7 +6421,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201H",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -6537,7 +6473,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201J",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -6589,7 +6525,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD201K",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 145
       },
@@ -6621,7 +6557,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD202A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 60,
         "upperFL": 100
       },
@@ -6661,7 +6597,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD202B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 225
       },
@@ -6701,7 +6637,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD202C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 225
       },
@@ -6749,7 +6685,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD202D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 125
       },
@@ -6833,7 +6769,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD207",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 230
       },
@@ -6957,7 +6893,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD211",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 24
       },
@@ -7265,7 +7201,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD213",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 24
       },
@@ -7573,7 +7509,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -7685,7 +7621,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -7989,7 +7925,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -8153,7 +8089,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 20,
         "upperFL": 60
       },
@@ -8189,7 +8125,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217E",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -8329,7 +8265,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217F",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -8429,7 +8365,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217G",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 20,
         "upperFL": 60
       },
@@ -8541,7 +8477,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217H",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 20,
         "upperFL": 60
       },
@@ -8845,7 +8781,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217I",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 20,
         "upperFL": 60
       },
@@ -9009,7 +8945,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217J",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 20,
         "upperFL": 60
       },
@@ -9149,7 +9085,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD217K",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 20,
         "upperFL": 60
       },
@@ -9249,7 +9185,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD218A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 75
       },
@@ -9289,7 +9225,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD218B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 240
       },
@@ -9329,7 +9265,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD218C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 160,
         "upperFL": 660
       },
@@ -9369,7 +9305,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD218D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 200,
         "upperFL": 660
       },
@@ -9409,7 +9345,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD220A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 195
       },
@@ -9717,7 +9653,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD220B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 105,
         "upperFL": 195
       },
@@ -10025,7 +9961,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD304",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 35
       },
@@ -10333,7 +10269,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD305",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -10373,7 +10309,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD307",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 200
       },
@@ -10581,7 +10517,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD314",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 29
       },
@@ -10889,7 +10825,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -10929,7 +10865,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -10965,7 +10901,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -11001,7 +10937,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -11045,7 +10981,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323E",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 50,
         "upperFL": 660
       },
@@ -11085,7 +11021,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323F",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 150,
         "upperFL": 660
       },
@@ -11129,7 +11065,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323G",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 150,
         "upperFL": 660
       },
@@ -11161,7 +11097,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323H",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 150,
         "upperFL": 660
       },
@@ -11197,7 +11133,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323J",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 150,
         "upperFL": 660
       },
@@ -11233,7 +11169,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323K",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 150,
         "upperFL": 660
       },
@@ -11269,7 +11205,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323L",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -11305,7 +11241,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323M",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -11341,7 +11277,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323N",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -11377,7 +11313,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323P",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -11413,7 +11349,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323Q",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -11453,7 +11389,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD323R",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -11485,7 +11421,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD324A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 105
       },
@@ -11793,7 +11729,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD324B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 105,
         "upperFL": 195
       },
@@ -11829,7 +11765,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD401",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 32
       },
@@ -11873,7 +11809,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD402A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 30
       },
@@ -11957,7 +11893,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD402B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 30
       },
@@ -11993,7 +11929,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD402C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 40
       },
@@ -12297,7 +12233,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD403A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 30
       },
@@ -12337,7 +12273,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD403B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 350
       },
@@ -12405,7 +12341,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD405",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 150
       },
@@ -12461,7 +12397,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD406A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 500
       },
@@ -12681,7 +12617,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD406B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 500
       },
@@ -12761,7 +12697,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD406C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 500
       },
@@ -12849,7 +12785,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD407",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -12901,7 +12837,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD408",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 30
       },
@@ -12949,7 +12885,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD410",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 10
       },
@@ -13253,7 +13189,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD412",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -13293,7 +13229,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD505",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 20
       },
@@ -13337,7 +13273,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD508",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 41
       },
@@ -13641,7 +13577,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD509",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 550
       },
@@ -13685,7 +13621,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD510A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 55
       },
@@ -13721,7 +13657,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD510B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 55
       },
@@ -13773,7 +13709,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD510C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 55
       },
@@ -14273,7 +14209,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD512A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 220
       },
@@ -14313,7 +14249,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD513A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 230
       },
@@ -14349,7 +14285,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD513B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 230
       },
@@ -14393,7 +14329,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD513C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -14433,7 +14369,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD514",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 85,
         "upperFL": 660
       },
@@ -14533,7 +14469,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD601",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 40
       },
@@ -14573,7 +14509,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD613A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -14609,7 +14545,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD613B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -14641,7 +14577,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD613C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -14673,7 +14609,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD613D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 100,
         "upperFL": 660
       },
@@ -14709,7 +14645,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -14853,7 +14789,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -14997,7 +14933,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15061,7 +14997,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15097,7 +15033,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701E",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15149,7 +15085,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701F",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15193,7 +15129,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701G",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15241,7 +15177,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701H",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15277,7 +15213,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701I",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15321,7 +15257,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701J",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15361,7 +15297,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701K",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15401,7 +15337,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701L",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15433,7 +15369,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701M",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15481,7 +15417,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701N",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15517,7 +15453,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701O",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15557,7 +15493,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701P",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15597,7 +15533,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701Q",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15633,7 +15569,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701R",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15669,7 +15605,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701S",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15705,7 +15641,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701T",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15741,7 +15677,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701U",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15777,7 +15713,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701V",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15813,7 +15749,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701W",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15849,7 +15785,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701X",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15881,7 +15817,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD701Y",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -15933,7 +15869,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD702",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 21
       },
@@ -15973,7 +15909,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD703",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 150
       },
@@ -16029,7 +15965,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD704",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 100
       },
@@ -16065,7 +16001,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD710",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 15
       },
@@ -16117,7 +16053,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD712A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 245,
         "upperFL": 660
       },
@@ -16153,7 +16089,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD712B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 245,
         "upperFL": 660
       },
@@ -16193,7 +16129,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD712C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 245,
         "upperFL": 660
       },
@@ -16229,7 +16165,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD712D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 245,
         "upperFL": 660
       },
@@ -16269,7 +16205,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD713",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 245,
         "upperFL": 660
       },
@@ -16317,7 +16253,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD714A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 30
       },
@@ -16625,7 +16561,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD714B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 999
       },
@@ -16665,7 +16601,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD801",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 550
       },
@@ -16701,7 +16637,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD802",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 550
       },
@@ -16757,7 +16693,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD803",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 400
       },
@@ -17061,7 +16997,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD809C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 550
       },
@@ -17097,7 +17033,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD809N",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 550
       },
@@ -17141,7 +17077,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD809S",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 550
       },
@@ -17181,7 +17117,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD901",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 245,
         "upperFL": 660
       },
@@ -17233,7 +17169,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902A",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 30
       },
@@ -17541,7 +17477,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902B",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -17577,7 +17513,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902C",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -17613,7 +17549,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902D",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -17649,7 +17585,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902E",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -17685,7 +17621,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902F",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -17717,7 +17653,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902G",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -17749,7 +17685,7 @@
       "type": "Feature",
       "properties": {
         "name": "EGD902H",
-        "type": "DANGER",
+        "type": "Danger",
         "lowerFL": 0,
         "upperFL": 660
       },
