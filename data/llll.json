@@ -1,6 +1,6 @@
 {
-  "mapCenter": [34.88, 31.30],
-  "mapZoom": 7.5,
+  "mapCenter": [31.55, 34.51],
+  "mapZoom": 5.8,
   "groups": {
     "Area 11": {
       "airspaces": ["11"],
