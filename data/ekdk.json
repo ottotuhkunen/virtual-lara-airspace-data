@@ -1,6 +1,6 @@
 {
-  "mapCenter": [56.0, 10.5],
-  "mapZoom": 6,
+  "mapCenter": [8.30, 55.36],
+  "mapZoom": 4.7,
   "groups": {
     "No Presets": {
       "airspaces": [""]
