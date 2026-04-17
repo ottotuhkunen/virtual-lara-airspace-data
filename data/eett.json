@@ -1,12 +1,57 @@
 {
   "mapCenter": [24.3, 58.5510],
   "mapZoom": 5.4,
-  "pilotDocs": "https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation",
+  "pilotDocs": "https://wiki.vatsim.ee/s/lara-airspace-reservation",
   "groups": {
-    "no presets": {
-      "airspaces": [""],
-      "lowerFL": 0,
-      "upperFL": 999
+    "TSA15BC": {
+      "airspaces": ["EETS15B", "EETS15C"],
+      "lowerFL": 95,
+      "upperFL": 295
+    },
+    "TSA22BC BDZ": {
+      "airspaces": ["EETS22B", "EETS22C"],
+      "lowerFL": 25,
+      "upperFL": 115
+    },
+    "TSA22 CONF1/D2": {
+      "airspaces": ["EETS22G", "EETS22H"],
+      "lowerFL": 95,
+      "upperFL": 265
+    },
+    "TSA22 CONF2/H2": {
+      "airspaces": ["EETS22D", "EETS22G"],
+      "lowerFL": 95,
+      "upperFL": 265
+    },
+    "TSA22 CONF3/I3": {
+      "airspaces": ["EETS22F", "EETS22I", "EETS22J"],
+      "lowerFL": 95,
+      "upperFL": 295
+    },
+    "TSA22 CONF4/K4": {
+      "airspaces": ["EETS22G", "EETS22H", "EETS22K", "EETS22L"],
+      "lowerFL": 95,
+      "upperFL": 265
+    },
+    "TSA22 CONF5/L3": {
+      "airspaces": ["EETS22K", "EETS22L", "EETS22M"],
+      "lowerFL": 95,
+      "upperFL": 305
+    },
+    "TSA22 CONF6/M5": {
+      "airspaces": ["EETS22H", "EETS22I", "EETS22J", "EETS22L", "EETS22M"],
+      "lowerFL": 95,
+      "upperFL": 305
+    },
+    "TSA22 CONF7/NORTH": {
+      "airspaces": ["EETS22D", "EETS22E", "EETS22G", "EETS22H", "EETS22K", "EETS22L"],
+      "lowerFL": 95,
+      "upperFL": 395
+    },
+    "TSA22 CONF8/SOUTH": {
+      "airspaces": ["EETS22E", "EETS22F", "EETS22H", "EETS22I", "EETS22L", "EETS22M"],
+      "lowerFL": 95,
+      "upperFL": 395
     }
   }
 }
