@@ -1,6 +1,6 @@
 {
-  "mapCenter": [50.901, 4.4856],
-  "mapZoom": 4,
+  "mapCenter": [4.444, 50.421],
+  "mapZoom": 5,
   "groups": {
     "EBTRANA": {
       "airspaces": ["ABV_CTA_E6", "TMA_4", "EBTRANA-E"],
