@@ -3,12 +3,12 @@
   "mapZoom": 5,
   "groups": {
     "EBTRANA": {
-      "airspaces": ["ABV_CTA_E6", "TMA_4", "EBTRANA-E"],
+      "airspaces": ["EBTRANA", "ABV_CTA_E6", "TMA_4", "EBTRANA-E"],
       "lowerFL": 45,
       "upperFL": 195
     },
     "EBTRASA": {
-      "airspaces": ["ABV_CTA_S1", "EBTRAS6"],
+      "airspaces": ["EBTRASA", "ABV_CTA_S1", "EBTRAS6"],
       "lowerFL": 45,
       "upperFL": 195
     }
