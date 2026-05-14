@@ -6,9 +6,7 @@
   "mapZoom": 6,
   "groups": {
     "No Presets": {
-      "airspaces": [
-        ""
-      ]
+      "airspaces": []
     }
   }
 }
