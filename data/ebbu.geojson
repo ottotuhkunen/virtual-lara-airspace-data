@@ -551,7 +551,8 @@
         "name": "EBR17B",
         "type": "REST",
         "lowerFL": 0,
-        "upperFL": 240
+        "upperFL": 240,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -615,7 +616,8 @@
         "name": "EBR17C",
         "type": "REST",
         "lowerFL": 0,
-        "upperFL": 240
+        "upperFL": 240,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -2623,7 +2625,8 @@
         "name": "EBD39",
         "type": "DANG",
         "lowerFL": 25,
-        "upperFL": 245
+        "upperFL": 245,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -4599,7 +4602,8 @@
         "name": "MONS_A",
         "type": "TSA",
         "lowerFL": 95,
-        "upperFL": 195
+        "upperFL": 195,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -4639,7 +4643,8 @@
         "name": "MONS_B",
         "type": "TSA",
         "lowerFL": 45,
-        "upperFL": 195
+        "upperFL": 195,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -4675,7 +4680,8 @@
         "name": "ABV_CTA_S1",
         "type": "TRA",
         "lowerFL": 95,
-        "upperFL": 195
+        "upperFL": 195,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -4723,7 +4729,8 @@
         "name": "EBTRASA",
         "type": "TRA",
         "lowerFL": 45,
-        "upperFL": 195
+        "upperFL": 195,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -5747,7 +5754,8 @@
         "name": "EBTRASB",
         "type": "TRA",
         "lowerFL": 195,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -5823,7 +5831,8 @@
         "name": "EBTRAS1",
         "type": "TSA",
         "lowerFL": 45,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -5867,7 +5876,8 @@
         "name": "EBTRAS2",
         "type": "TSA",
         "lowerFL": 45,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -5911,7 +5921,8 @@
         "name": "EBTRAS3",
         "type": "TSA",
         "lowerFL": 45,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -5959,7 +5970,8 @@
         "name": "EBTRAS4",
         "type": "TSA",
         "lowerFL": 45,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -6007,7 +6019,8 @@
         "name": "EBTRAS5",
         "type": "TRA",
         "lowerFL": 65,
-        "upperFL": 195
+        "upperFL": 195,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -6055,7 +6068,8 @@
         "name": "EBTSAS5",
         "type": "TSA",
         "lowerFL": 65,
-        "upperFL": 195
+        "upperFL": 195,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -6207,7 +6221,8 @@
         "name": "EBTRAW",
         "type": "TRA",
         "lowerFL": 45,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -6683,7 +6698,8 @@
         "name": "EBTSAW",
         "type": "TRA",
         "lowerFL": 45,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -7159,7 +7175,8 @@
         "name": "EBTRAWD",
         "type": "TRA",
         "lowerFL": 195,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -7207,7 +7224,8 @@
         "name": "EBTSAWD",
         "type": "TRA",
         "lowerFL": 195,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -8547,7 +8565,8 @@
         "name": "EBTSA24",
         "type": "TSA",
         "lowerFL": 95,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -8595,7 +8614,8 @@
         "name": "EBTSA25A",
         "type": "TSA",
         "lowerFL": 95,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -8651,7 +8671,8 @@
         "name": "EBTSA25B",
         "type": "TSA",
         "lowerFL": 95,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -8763,7 +8784,8 @@
         "name": "EBTSA26A",
         "type": "TSA",
         "lowerFL": 95,
-        "upperFL": 999
+        "upperFL": 999,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -10239,7 +10261,8 @@
         "name": "EBTSA29A",
         "type": "TSA",
         "lowerFL": 45,
-        "upperFL": 145
+        "upperFL": 145,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
