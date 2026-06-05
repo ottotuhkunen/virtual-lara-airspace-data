@@ -599,7 +599,8 @@
         "name": "EGD003",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 220
+        "upperFL": 220,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -635,7 +636,8 @@
         "name": "EGD004",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 220
+        "upperFL": 220,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -1391,7 +1393,8 @@
         "name": "EGD008A",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 220
+        "upperFL": 220,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -1427,7 +1430,8 @@
         "name": "EGD008B",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 220
+        "upperFL": 220,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -1463,7 +1467,8 @@
         "name": "EGD008C",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 220
+        "upperFL": 220,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -1547,7 +1552,8 @@
         "name": "EGD009A",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 220
+        "upperFL": 220,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -2663,7 +2669,8 @@
         "name": "EGD036",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 100
+        "upperFL": 100,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -2699,7 +2706,8 @@
         "name": "EGD037",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 100
+        "upperFL": 100,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -2735,7 +2743,8 @@
         "name": "EGD038",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 100
+        "upperFL": 100,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -2775,7 +2784,8 @@
         "name": "EGD039",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 100
+        "upperFL": 100,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -2815,7 +2825,8 @@
         "name": "EGD040",
         "type": "DANGER",
         "lowerFL": 0,
-        "upperFL": 100
+        "upperFL": 100,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
@@ -23183,7 +23194,8 @@
         "name": "TRA 001",
         "type": "TRA",
         "lowerFL": 195,
-        "upperFL": 245
+        "upperFL": 245,
+        "foreignClusters": [ "lfxx" ]
       },
       "geometry": {
         "type": "Polygon",
