@@ -3280,6 +3280,438 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-1",
+        "name": "IMTA 1",
+        "type": "IMTA",
+        "upper": "FL280 / SFC",
+        "upperFL": 280,
+        "lowerFL": 0,
+        "remarks": "Active H24.",
+        "fullName": "IMTA 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.334722,
+              15.998333
+            ],
+            [
+              119.634722,
+              15.998333
+            ],
+            [
+              120.201389,
+              15.215
+            ],
+            [
+              120.169722,
+              15.206667
+            ],
+            [
+              120.073056,
+              15.090278
+            ],
+            [
+              120.008056,
+              14.956944
+            ],
+            [
+              119.334722,
+              14.681944
+            ],
+            [
+              119.334722,
+              15.998333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-2",
+        "name": "IMTA 2",
+        "type": "IMTA",
+        "upper": "FL140 / SFC",
+        "upperFL": 140,
+        "lowerFL": 0,
+        "remarks": "Active H24.",
+        "fullName": "IMTA 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.634722,
+              15.998333
+            ],
+            [
+              120.284722,
+              15.998333
+            ],
+            [
+              120.418056,
+              15.581667
+            ],
+            [
+              120.201389,
+              15.215
+            ],
+            [
+              119.634722,
+              15.998333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-3",
+        "name": "IMTA 3",
+        "type": "IMTA",
+        "upper": "FL300 / SFC",
+        "upperFL": 300,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.986389,
+              16.998333
+            ],
+            [
+              122.334722,
+              16.998333
+            ],
+            [
+              122.001389,
+              16.431667
+            ],
+            [
+              122.001389,
+              16.131667
+            ],
+            [
+              121.321389,
+              15.735
+            ],
+            [
+              121.986389,
+              16.998333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-4",
+        "name": "IMTA 4",
+        "type": "IMTA",
+        "upper": "FL200 / SFC",
+        "upperFL": 200,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.374722,
+              15.555
+            ],
+            [
+              122.001389,
+              15.931667
+            ],
+            [
+              122.001389,
+              15.265
+            ],
+            [
+              121.848056,
+              15.206667
+            ],
+            [
+              121.609722,
+              15.438333
+            ],
+            [
+              121.374722,
+              15.555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-5",
+        "name": "IMTA 5",
+        "type": "IMTA",
+        "upper": "FL300 / SFC",
+        "upperFL": 300,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.986389,
+              8.143611
+            ],
+            [
+              123.251389,
+              7.965556
+            ],
+            [
+              123.494722,
+              7.255556
+            ],
+            [
+              122.488056,
+              7.138889
+            ],
+            [
+              122.431389,
+              7.220556
+            ],
+            [
+              122.986389,
+              8.143611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-6",
+        "name": "IMTA 6",
+        "type": "IMTA",
+        "upper": "FL300 / SFC",
+        "upperFL": 300,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.649722,
+              6.642222
+            ],
+            [
+              121.713056,
+              6.565556
+            ],
+            [
+              121.228056,
+              5.505556
+            ],
+            [
+              120.541389,
+              6.367222
+            ],
+            [
+              121.649722,
+              6.642222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-7",
+        "name": "IMTA 7",
+        "type": "IMTA",
+        "upper": "FL250 / SFC",
+        "upperFL": 250,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.558056,
+              10.857222
+            ],
+            [
+              119.7425,
+              10.857222
+            ],
+            [
+              119.941389,
+              10.473889
+            ],
+            [
+              119.179722,
+              10.058889
+            ],
+            [
+              119.558056,
+              10.857222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-8",
+        "name": "IMTA 8",
+        "type": "IMTA",
+        "upper": "FL200 / SFC",
+        "upperFL": 200,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.356389,
+              9.663611
+            ],
+            [
+              118.604722,
+              9.411944
+            ],
+            [
+              118.221389,
+              9.043611
+            ],
+            [
+              117.974722,
+              9.295278
+            ],
+            [
+              118.356389,
+              9.663611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-9",
+        "name": "IMTA 9",
+        "type": "IMTA",
+        "upper": "FL300 / SFC",
+        "upperFL": 300,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.159722,
+              9.865278
+            ],
+            [
+              118.356389,
+              9.663611
+            ],
+            [
+              117.974722,
+              9.295278
+            ],
+            [
+              117.774722,
+              9.498611
+            ],
+            [
+              118.159722,
+              9.865278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IMTA-10",
+        "name": "IMTA 10",
+        "type": "IMTA",
+        "upper": "FL250 / SFC",
+        "upperFL": 250,
+        "lowerFL": 0,
+        "remarks": "Activated by NOTAM.",
+        "fullName": "IMTA 10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.883056,
+              9.388611
+            ],
+            [
+              118.221389,
+              9.043611
+            ],
+            [
+              117.504722,
+              8.350556
+            ],
+            [
+              117.258056,
+              8.606944
+            ],
+            [
+              117.388056,
+              8.831944
+            ],
+            [
+              117.493056,
+              9.010278
+            ],
+            [
+              117.883056,
+              9.388611
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
