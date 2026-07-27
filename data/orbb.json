@@ -1,6 +1,6 @@
 {
-  "mapCenter": [33.19, 43.4],
-  "mapZoom": 3,
+  "mapCenter": [43.4, 33.19],
+  "mapZoom": 4.6,
   "pilotDocs": "https://wiki.vatsim-scandinavia.org/books/finnish-airports-charts/page/v-lara-airspace-reservation",
   "groups": {
     "no presets": {
