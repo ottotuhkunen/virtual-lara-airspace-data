@@ -1,9 +1,419 @@
 {
-  "mapCenter": [2.89527778, 46.85861111],
-  "mapZoom": 3,
-  "groups": {
-    "No Presets": {
-      "airspaces": [""]
+    "mapCenter": [
+        2.89527778,
+        46.85861111
+    ],
+    "mapZoom": 3,
+    "groups": {
+        "Air-to-Ground - CAPTIEUX": {
+            "airspaces": [
+                "LF R 115 A",
+                "LF R 115 B",
+                "LF R 115 C"
+            ]
+        },
+        "Air-to-Ground - SUIPPES": {
+            "airspaces": [
+                "LF R 4 A",
+                "LF R 4 B",
+                "LF R 4 C1",
+                "LF R 4 C2",
+                "LF R 4 D",
+                "LF R 175 A",
+                "LF R 175 B"
+            ]
+        },
+        "Air-to-Ground - DIANE": {
+            "airspaces": [
+                "LF R 66 A1",
+                "LF R 66 A2",
+                "LF R 66 B",
+                "LF R 66 C"
+            ]
+        },
+        "RTBA - North-East": {
+            "airspaces": [
+                "LF R 69",
+                "LF R 45 N5.1",
+                "LF R 45 N5.2",
+                "LF R 45 N2",
+                "LF R 45 N3",
+                "LF R 45 N4",
+                "LF R 152",
+                "LF R 45 A",
+                "LF R 45 B",
+                "LF R 45 C",
+                "LF R 45 S1",
+                "LF R 45 S2",
+                "LF R 45 S3",
+                "LF R 45 S4",
+                "LF R 45 S5",
+                "LF R 45 S6.1",
+                "LF R 45 S6.2",
+                "LF R 45 S7",
+                "LF R 45 NS"
+            ]
+        },
+        "RTBA - Centre": {
+            "airspaces": [
+                "LF R 139 A",
+                "LF R 139 B",
+                "LF R 142 A",
+                "LF R 142 B",
+                "LF R 143",
+                "LF R 144 A",
+                "LF R 144 B",
+                "LF R 145 A",
+                "LF R 145 B",
+                "LF R 165 A",
+                "LF R 165 B"
+            ]
+        },
+        "RTBA - West": {
+            "airspaces": [
+                "LF R 149 A",
+                "LF R 149 B",
+                "LF R 149 D",
+                "LF R 149 E",
+                "LF R 56",
+                "LF R 57",
+                "LF R 147"
+            ]
+        },
+        "RTBA - South-East": {
+            "airspaces": [
+                "LF R 166 A1",
+                "LF R 166 A2",
+                "LF R 166 B",
+                "LF R 166 C",
+                "LF R 46 A",
+                "LF R 46 B",
+                "LF R 46 C",
+                "LF R 46 D",
+                "LF R 46 E1",
+                "LF R 46 E2",
+                "LF R 46 F1",
+                "LF R 46 F2",
+                "LF R 46 F3",
+                "LF R 46 G",
+                "LF R 46 N1",
+                "LF R 46 N2"
+            ]
+        },
+        "RTBA - South-West": {
+            "airspaces": [
+                "LF R 589 A",
+                "LF R 589 B",
+                "LF R 590 A",
+                "LF R 590 B",
+                "LF R 591",
+                "LF R 592",
+                "LF R 593",
+                "LF R 191 A",
+                "LF R 191 B",
+                "LF R 191 C",
+                "LF R 193 A",
+                "LF R 193 B"
+            ]
+        },
+        "High Altitude Tankering - SIMONE": {
+            "airspaces": [
+                "TRA 10 A",
+                "TRA 10 B"
+            ]
+        },
+        "High Altitude Tankering - JUDITH": {
+            "airspaces": [
+                "TRA 40"
+            ]
+        },
+        "High Altitude Tankering - YVETTE": {
+            "airspaces": [
+                "TRA 8 B"
+            ]
+        },
+        "High Altitude Tankering - MARIE": {
+            "airspaces": [
+                "TRA 22 A1",
+                "TRA 22 A2",
+                "TRA 22 B"
+            ]
+        },
+        "High Altitude Tankering - LEA": {
+            "airspaces": [
+                "LF D 54 A4"
+            ]
+        },
+        "High Altitude Tankering - OLIVIA": {
+            "airspaces": [
+                "TRA 9 A"
+            ]
+        },
+        "High Altitude Tankering - AGATHE": {
+            "airspaces": [
+                "LF D 31"
+            ]
+        },
+        "High Altitude Tankering - EDWIGE": {
+            "airspaces": [
+                "LF D 12 NA",
+                "LF D 12 NB"
+            ]
+        },
+        "High Altitude Tankering - CECILE": {
+            "airspaces": [
+                "TRA 34 A",
+                "TRA 34 B",
+                "TRA 34 C",
+                "TRA 34 D",
+                "TRA 34 E",
+                "TRA 34 N"
+            ]
+        },
+        "High Altitude Tankering - DIANA": {
+            "airspaces": [
+                "TRA 42 N",
+                "TRA 42 S"
+            ]
+        },
+        "High Altitude Tankering - IRENE": {
+            "airspaces": [
+                "TRA 41",
+                "TRA 46 N",
+                "TRA 46 S"
+            ]
+        },
+        "High Altitude Tankering - GISELE": {
+            "airspaces": [
+                "TRA 200 A"
+            ]
+        },
+        "High Altitude Tankering - ZOE": {
+            "airspaces": [
+                "LF D 67"
+            ]
+        },
+        "High Altitude Tankering - VALENTINA": {
+            "airspaces": [
+                "TRA 44 A"
+            ]
+        },
+        "High Altitude Tankering - NINA": {
+            "airspaces": [
+                "LF D 5"
+            ]
+        },
+        "High Altitude Tankering - STACY": {
+            "airspaces": [
+                "LF D 14 W",
+                "LF D 14 E",
+                "LF D 15"
+            ]
+        },
+        "High Altitude Tankering - TIPHAINE": {
+            "airspaces": [
+                "TRA 24 A"
+            ]
+        },
+        "High Altitude Tankering - BARBARA": {
+            "airspaces": [
+                "LF D 300 A",
+                "LF D 300 B"
+            ]
+        },
+        "High Altitude Tankering - CLARA": {
+            "airspaces": [
+                "EU CBA 1 L"
+            ]
+        },
+        "Medium Altitude Tankering - FABIOLA": {
+            "airspaces": [
+                "LF R 10"
+            ]
+        },
+        "Medium Altitude Tankering - TANIA": {
+            "airspaces": [
+                "LF R 124"
+            ]
+        },
+        "Medium Altitude Tankering - NADIA": {
+            "airspaces": [
+                "LF D 5"
+            ]
+        },
+        "Medium Altitude Tankering - KATIA": {
+            "airspaces": [
+                "LF D 54 A1",
+                "LF D 54 A2",
+                "LF D 54 A3",
+                "LF D 54 A4",
+                "LF D 54 BN",
+                "LF D 54 BS",
+                "LF D 54 CN",
+                "LF D 54 CS",
+                "LF D 54 N",
+                "LF D 54 NR",
+                "LF D 54 WA",
+                "LF D 54 WB",
+                "LF D 54 WC"
+            ]
+        },
+        "Medium Altitude Tankering - URSULA": {
+            "airspaces": [
+                "LF R 7 B"
+            ]
+        },
+        "Medium Altitude Tankering - REGINA": {
+            "airspaces": [
+                "LF R 321"
+            ]
+        },
+        "Medium Altitude Tankering - VIVIANE": {
+            "airspaces": [
+                "LF R 49 H2"
+            ]
+        },
+        "Medium Altitude Tankering - ZORA": {
+            "airspaces": [
+                "LF D 67"
+            ]
+        },
+        "Medium Altitude Tankering - OCEANE": {
+            "airspaces": [
+                "LF R 7 C"
+            ]
+        },
+        "Medium Altitude Tankering - STEPHANIE": {
+            "airspaces": [
+                "LF R 68 A",
+                "LF R 68 B",
+                "LF R 68 C"
+            ]
+        },
+        "Medium Altitude Tankering - LUCIE": {
+            "airspaces": [
+                "LF R 34 A1",
+                "LF R 34 A2"
+            ]
+        },
+        "Medium Altitude Tankering - AMELIE": {
+            "airspaces": [
+                "LF R 34 A1",
+                "LF R 34 A2"
+            ]
+        },
+        "Medium Altitude Tankering - ALOHA": {
+            "airspaces": [
+                "LF D 31"
+            ]
+        },
+        "Medium Altitude Tankering - AXELLE": {
+            "airspaces": [
+                "LF D 31"
+            ]
+        },
+        "Medium Altitude Tankering - MATHILDA": {
+            "airspaces": [
+                "LF D 18 B1"
+            ]
+        },
+        "Heavy Aircraft Tankering - 9": {
+            "airspaces": [
+                "TRA 10 A",
+                "TRA 10 B"
+            ]
+        },
+        "Heavy Aircraft Tankering - 10": {
+            "airspaces": [
+                "TRA 10 A",
+                "TRA 10 B"
+            ]
+        },
+        "Heavy Aircraft Tankering - 5": {
+            "airspaces": [
+                "TRA 34 A"
+            ]
+        },
+        "Heavy Aircraft Tankering - 6": {
+            "airspaces": [
+                "TRA 34 A"
+            ]
+        },
+        "Heavy Aircraft Tankering - 01B": {
+            "airspaces": [
+                "LF D 31"
+            ]
+        },
+        "Heavy Aircraft Tankering - 02B": {
+            "airspaces": [
+                "LF D 31"
+            ]
+        },
+        "Heavy Aircraft Tankering - 66": {
+            "airspaces": [
+                "LF D 12 GA",
+                "LF D 12 GB"
+            ]
+        },
+        "Heavy Aircraft Tankering - 67": {
+            "airspaces": [
+                "LF D 12 GA",
+                "LF D 12 GB"
+            ]
+        },
+        "Heavy Aircraft Tankering - 3": {
+            "airspaces": [
+                "LF D 54 A1",
+                "LF D 54 A2",
+                "LF D 54 A3",
+                "LF D 54 A4",
+                "LF D 54 BN",
+                "LF D 54 BS",
+                "LF D 54 CN",
+                "LF D 54 CS",
+                "LF D 54 N",
+                "LF D 54 NR",
+                "LF D 54 WA",
+                "LF D 54 WB",
+                "LF D 54 WC"
+            ]
+        },
+        "Heavy Aircraft Tankering - 4": {
+            "airspaces": [
+                "LF D 54 A1",
+                "LF D 54 A2",
+                "LF D 54 A3",
+                "LF D 54 A4",
+                "LF D 54 BN",
+                "LF D 54 BS",
+                "LF D 54 CN",
+                "LF D 54 CS",
+                "LF D 54 N",
+                "LF D 54 NR",
+                "LF D 54 WA",
+                "LF D 54 WB",
+                "LF D 54 WC"
+            ]
+        },
+        "Heavy Aircraft Tankering - 7": {
+            "airspaces": [
+                "TRA 44 A",
+                "TRA 44 B",
+                "TRA 44 C1",
+                "TRA 44 C2",
+                "TRA 44 D1",
+                "TRA 44 D2"
+            ]
+        },
+        "Heavy Aircraft Tankering - 8": {
+            "airspaces": [
+                "TRA 44 A",
+                "TRA 44 B",
+                "TRA 44 C1",
+                "TRA 44 C2",
+                "TRA 44 D1",
+                "TRA 44 D2"
+            ]
+        }
     }
-  }
 }
