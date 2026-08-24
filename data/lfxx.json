@@ -116,6 +116,887 @@
                 "LF R 193 B"
             ]
         },
+        "RTBA - AA01": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - AB01": {
+        "airspaces": [
+            "LF R 149 A",
+            "LF R 149 B"
+        ]
+    },
+    "RTBA - AL01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 S1",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - AI01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 45 S3",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - AM01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 45 S3",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - AN01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 NS",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - AN05": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 N2",
+            "LF R 45 N3",
+            "LF R 45 N4",
+            "LF R 45 N5.1",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 69"
+        ]
+    },
+    "RTBA - AN07": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 N2",
+            "LF R 45 N3",
+            "LF R 45 N4",
+            "LF R 45 N5.1",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - AS01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 69"
+        ]
+    },
+    "RTBA - AS03": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 69"
+        ]
+    },
+    "RTBA - BA01": {
+        "airspaces": [
+            "LF R 149 A",
+            "LF R 149 B"
+        ]
+    },
+    "RTBA - LA01": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 143",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - LI01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 143",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - LN05": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 N2",
+            "LF R 45 N3",
+            "LF R 45 N4",
+            "LF R 45 N5.1",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 69"
+        ]
+    },
+    "RTBA - LN07": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 N2",
+            "LF R 45 N3",
+            "LF R 45 N4",
+            "LF R 45 N5.1",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - LS01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 69"
+        ]
+    },
+    "RTBA - LL01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - LL03": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - LM01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 143",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - LN01": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 NS",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - LN03": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 NS",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - LS03": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 69"
+        ]
+    },
+    "RTBA - LS05": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 69"
+        ]
+    },
+    "RTBA - LS07": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 69"
+        ]
+    },
+    "RTBA - MA01": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 145 A",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 166 A1",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B"
+        ]
+    },
+    "RTBA - MI01": {
+        "airspaces": [
+            "LF R 166 A1",
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 592"
+        ]
+    },
+    "RTBA - ML01": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 166 A1",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B"
+        ]
+    },
+    "RTBA - MM01": {
+        "airspaces": [
+            "LF R 166 A1",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 46 A",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 A",
+            "LF R 589 B"
+        ]
+    },
+    "RTBA - MM03": {
+        "airspaces": [
+            "LF R 166 A1",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 46 A",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 A",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 592"
+        ]
+    },
+    "RTBA - MS01": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 166 A1",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B",
+            "LF R 69"
+        ]
+    },
+    "RTBA - MS03": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 166 A1",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B",
+            "LF R 69"
+        ]
+    },
+    "RTBA - NN01": {
+        "airspaces": [
+            "LF R 45 N2",
+            "LF R 45 N3",
+            "LF R 45 N4",
+            "LF R 45 N5.1",
+            "LF R 45 N5.2"
+        ]
+    },
+    "RTBA - OI01": {
+        "airspaces": [
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 55 B",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - OM01": {
+        "airspaces": [
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 55 B",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - RH01": {
+        "airspaces": [
+            "LF R 147",
+            "LF R 149 D",
+            "LF R 149 E",
+            "LF R 56",
+            "LF R 57"
+        ]
+    },
+    "RTBA - RJ01": {
+        "airspaces": [
+            "LF R 147",
+            "LF R 149 D",
+            "LF R 149 E",
+            "LF R 57"
+        ]
+    },
+    "RTBA - AA02": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - AL02": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 143",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - AM02": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 145 A",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 166 A1",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B"
+        ]
+    },
+    "RTBA - IA02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 45 S3",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - HR02": {
+        "airspaces": [
+            "LF R 147",
+            "LF R 149 D",
+            "LF R 149 E",
+            "LF R 56",
+            "LF R 57"
+        ]
+    },
+    "RTBA - JR02": {
+        "airspaces": [
+            "LF R 147",
+            "LF R 149 D",
+            "LF R 149 E",
+            "LF R 57"
+        ]
+    },
+    "RTBA - IL02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 143",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - IM02": {
+        "airspaces": [
+            "LF R 166 A1",
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 592"
+        ]
+    },
+    "RTBA - IM04": {
+        "airspaces": [
+            "LF R 143",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 166 A1",
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - IO02": {
+        "airspaces": [
+            "LF R 191 A",
+            "LF R 191 B",
+            "LF R 191 C",
+            "LF R 55 B",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - LA02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 S1",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - LL02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - LM02": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 166 A1",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 46 A",
+            "LF R 589 A",
+            "LF R 589 B"
+        ]
+    },
+    "RTBA - LN06": {
+        "airspaces": [
+            "LF R 45 N2",
+            "LF R 45 N3",
+            "LF R 45 N4",
+            "LF R 45 N5.1",
+            "LF R 45 S1",
+            "LF R 69"
+        ]
+    },
+    "RTBA - LS02": {
+        "airspaces": [
+            "LF R 45 S1",
+            "LF R 69"
+        ]
+    },
+    "RTBA - LS04": {
+        "airspaces": [
+            "LF R 45 S1",
+            "LF R 69"
+        ]
+    },
+    "RTBA - MA02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 45 S3",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - ML02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 143",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 45 S1",
+            "LF R 45 S3",
+            "LF R 45 S7",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - MM02": {
+        "airspaces": [
+            "LF R 166 A1",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 46 A",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 A",
+            "LF R 589 B"
+        ]
+    },
+    "RTBA - MM04": {
+        "airspaces": [
+            "LF R 166 A1",
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 46 A",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 589 A",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 592"
+        ]
+    },
+    "RTBA - MO02": {
+        "airspaces": [
+            "LF R 191 C",
+            "LF R 193 A",
+            "LF R 193 B",
+            "LF R 46 C",
+            "LF R 46 D",
+            "LF R 46 N2",
+            "LF R 55 B",
+            "LF R 589 B",
+            "LF R 590 A",
+            "LF R 590 B",
+            "LF R 591",
+            "LF R 592",
+            "LF R 593"
+        ]
+    },
+    "RTBA - NA02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 45 NS",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - NL02": {
+        "airspaces": [
+            "LF R 142 A",
+            "LF R 45 NS",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3",
+            "LF R 45 S7"
+        ]
+    },
+    "RTBA - NL04": {
+        "airspaces": [
+            "LF R 139 A",
+            "LF R 139 B",
+            "LF R 142 A",
+            "LF R 142 B",
+            "LF R 143",
+            "LF R 144 A",
+            "LF R 144 B",
+            "LF R 145 A",
+            "LF R 145 B",
+            "LF R 165 A",
+            "LF R 165 B",
+            "LF R 45 NS",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 45 S3"
+        ]
+    },
+    "RTBA - NS02": {
+        "airspaces": [
+            "LF R 45 NS",
+            "LF R 45 S1",
+            "LF R 45 S2",
+            "LF R 69"
+        ]
+    },
         "High Altitude Tankering - SIMONE": {
             "airspaces": [
                 "TRA 10 A",
