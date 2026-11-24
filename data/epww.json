@@ -1,0 +1,183 @@
+{
+  "mapCenter": [19.14, 52.56],
+  "mapZoom": 4.7,
+  "groups": {
+    "EPD25": {
+      "airspaces": ["EPD25A", "EPD25B"]
+    },
+    "EPD51": {
+      "airspaces": ["EPD51A", "EPD51B"]
+    },
+    "EPD53": {
+      "airspaces": ["EPD53A", "EPD53B", "EPD53C", "EPD53D"]
+    },
+    "EPTS1": {
+      "airspaces": ["EPTS1A", "EPTS1B", "EPTS1C"]
+    },
+    "EPTS2": {
+      "airspaces": ["EPTS2A", "EPTS2B", "EPTS2C", "EPTS2D", "EPTS2E", "EPTS2F"]
+    },
+    "EPTS3": {
+      "airspaces": ["EPTS3A", "EPTS3B", "EPTS3C", "EPTS3D"]
+    },
+    "EPTS5": {
+      "airspaces": ["EPTS5D", "EPTS5E", "EPTS5F"]
+    },
+    "EPTS6": {
+      "airspaces": ["EPTS6A", "EPTS6B", "EPTS6C", "EPTS6D", "EPTS6E", "EPTS6F"]
+    },
+    "EPTS7": {
+      "airspaces": ["EPTS7A", "EPTS7B", "EPTS7C", "EPTS7D", "EPTS7E"]
+    },
+    "EPTS10": {
+      "airspaces": ["EPTS10A", "EPTS10B"]
+    },
+    "EPTS12": {
+      "airspaces": ["EPTS12A", "EPTS12B", "EPTS12C"]
+    },
+    "EPTS13": {
+      "airspaces": ["EPTS13A", "EPTS13B"]
+    },
+    "EPTS14": {
+      "airspaces": ["EPTS14A", "EPTS14B", "EPTS14C"]
+    },
+    "EPTS16": {
+      "airspaces": ["EPTS16A", "EPTS16B", "EPTS16C", "EPTS16D", "EPTS16E", "EPTS16F"]
+    },
+    "EPTS35": {
+      "airspaces": ["EPTS35A", "EPTS35B", "EPTS35C", "EPTS35D"]
+    },
+    "EPTS36": {
+      "airspaces": ["EPTS36A", "EPTS36B", "EPTS36C", "EPTS36D"]
+    },
+    "EPTS74": {
+      "airspaces": ["EPTS74A", "EPTS74B"]
+    },
+    "EPTR1": {
+      "airspaces": ["EPTR1A", "EPTR1B"]
+    },
+    "EPTR3": {
+      "airspaces": ["EPTR3A", "EPTR3B", "EPTR3C"]
+    },
+    "EPTR4": {
+      "airspaces": ["EPTR4A", "EPTR4B", "EPTR4C", "EPTR4D", "EPTR4E", "EPTR4F", "EPTR4G", "EPTR4H", "EPTR4P"]
+    },
+    "EPTR5": {
+      "airspaces": ["EPTR5A", "EPTR5B", "EPTR5C", "EPTR5D", "EPTR5E", "EPTR5F", "EPTR5G"]
+    },
+    "EPTR10": {
+      "airspaces": ["EPTR10A", "EPTR10B", "EPTR10C", "EPTR10D", "EPTR10E", "EPTR10F"]
+    },
+    "EPTR11": {
+      "airspaces": ["EPTR11A", "EPTR11B", "EPTR11C", "EPTR11D", "EPTR11E"]
+    },
+    "EPTR14": {
+      "airspaces": ["EPTR14A", "EPTR14B", "EPTR14C", "EPTR14D"]
+    },
+    "EPTR15": {
+      "airspaces": ["EPTR15A", "EPTR15B", "EPTR15C"]
+    },
+    "EPTR20": {
+      "airspaces": ["EPTR20A", "EPTR20B", "EPTR20C", "EPTR20D"]
+    },
+    "EPTR21": {
+      "airspaces": ["EPTR21A", "EPTR21B", "EPTR21C"]
+    },
+    "EPTR22": {
+      "airspaces": ["EPTR22A", "EPTR22B", "EPTR22C", "EPTR22D", "EPTR22E"]
+    },
+    "EPTR23": {
+      "airspaces": ["EPTR23A", "EPTR23B", "EPTR23C", "EPTR23D", "EPTR23E", "EPTR23F"]
+    },
+    "EPTR24": {
+      "airspaces": ["EPTR24A", "EPTR24B"]
+    },
+    "EPTR26": {
+      "airspaces": ["EPTR26A", "EPTR26B"]
+    },
+    "EPTR33": {
+      "airspaces": ["EPTR33A", "EPTR33B"]
+    },
+    "EPTR38": {
+      "airspaces": ["EPTR38A", "EPTR38B"]
+    },
+    "EPTR40": {
+      "airspaces": ["EPTR40A", "EPTR40B"]
+    },
+    "EPTR44": {
+      "airspaces": ["EPTR44A", "EPTR44B"]
+    },
+    "EPTR48": {
+      "airspaces": ["EPTR48A", "EPTR48B", "EPTR48C"]
+    },
+    "EPTR51": {
+      "airspaces": ["EPTR51A", "EPTR51B"]
+    },
+    "EPTR52": {
+      "airspaces": ["EPTR52A", "EPTR52B"]
+    },
+    "EPTR53": {
+      "airspaces": ["EPTR53A", "EPTR53B"]
+    },
+    "EPTR54": {
+      "airspaces": ["EPTR54A", "EPTR54B"]
+    },
+    "EPTR60": {
+      "airspaces": ["EPTR60A", "EPTR60B"]
+    },
+    "EPTR65": {
+      "airspaces": ["EPTR65A", "EPTR65B", "EPTR65C", "EPTR65D"]
+    },
+    "EPTR68": {
+      "airspaces": ["EPTR68A", "EPTR68B"]
+    },
+    "EPTR69": {
+      "airspaces": ["EPTR69A", "EPTR69B", "EPTR69C", "EPTR69D", "EPTR69E", "EPTR69F"]
+    },
+    "EPTR70": {
+      "airspaces": ["EPTR70A", "EPTR70B"]
+    },
+    "EPTR72": {
+      "airspaces": ["EPTR72A", "EPTR72B", "EPTR72C", "EPTR72D"]
+    },
+    "EPTR75": {
+      "airspaces": ["EPTR75A", "EPTR75B"]
+    },
+    "EPTR109": {
+      "airspaces": ["EPTR109A", "EPTR109B"]
+    },
+    "EPTR112": {
+      "airspaces": ["EPTR112A", "EPTR112B"]
+    },
+    "EPTR115": {
+      "airspaces": ["EPTR115A", "EPTR115B"]
+    },
+    "EPTR120": {
+      "airspaces": ["EPTR120A", "EPTR120B"]
+    },
+    "EPTR129": {
+      "airspaces": ["EPTR129A", "EPTR129B"]
+    },
+    "EPTR130": {
+      "airspaces": ["EPTR130A", "EPTR130B"]
+    },
+    "EPTR137": {
+      "airspaces": ["EPTR137A", "EPTR137B"]
+    },
+    "EPTR150": {
+      "airspaces": ["EPTR150A", "EPTR150B", "EPTR150C", "EPTR150D", "EPTR150E", "EPTR150F", "EPTR150G", "EPTR150H"]
+    },
+    "EPTR157": {
+      "airspaces": ["EPTR157A", "EPTR157B"]
+    },
+    "EPTR184": {
+      "airspaces": ["EPTR184A", "EPTR184B"]
+    },
+    "EPTR201": {
+      "airspaces": ["EPTR201A", "EPTR201B"]
+    },
+    "EPTR292": {
+      "airspaces": ["EPTR292A", "EPTR292B"]
+    }
+  }
+}
