@@ -435,7 +435,10 @@
         "name": "TRA80",
         "type": "CBO",
         "lowerFL": 95,
-        "upperFL": 660
+        "upperFL": 660,
+        "foreignClusters": [
+          "efin"
+        ]
       },
       "geometry": {
         "type": "Polygon",
@@ -1123,7 +1126,10 @@
         "name": "D184",
         "type": "CBO",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 660,
+        "foreignClusters": [
+          "efin"
+        ]
       },
       "geometry": {
         "type": "Polygon",
@@ -1179,7 +1185,10 @@
         "name": "D185",
         "type": "CBO",
         "lowerFL": 0,
-        "upperFL": 660
+        "upperFL": 660,
+        "foreignClusters": [
+          "efin"
+        ]
       },
       "geometry": {
         "type": "Polygon",
